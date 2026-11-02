@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-02T16:30:10Z",
- "generated_at_pt": "Nov 2, 2026 8:30 AM PT",
+ "generated_at": "2026-11-02T16:38:48Z",
+ "generated_at_pt": "Nov 2, 2026 8:38 AM PT",
  "last_run": {
-  "run_id": 1,
-  "started_at_pt": "Nov 2, 2026 7:51 AM PT",
+  "run_id": 2,
+  "started_at_pt": "Nov 2, 2026 8:38 AM PT",
   "stats": {
    "hn": {
     "status": "ok",
-    "fetched": 118,
+    "fetched": 44,
     "old": 0,
-    "dropped": 118,
+    "dropped": 44,
     "borderline": 0,
     "passed": 0,
     "duplicates": 0,
@@ -19,28 +19,29 @@
    },
    "arxiv": {
     "status": "ok",
-    "fetched": 54,
+    "fetched": 53,
     "old": 0,
     "dropped": 3,
     "borderline": 0,
-    "passed": 51,
-    "duplicates": 4,
-    "new": 47,
+    "passed": 50,
+    "duplicates": 50,
+    "new": 0,
     "baseline": 0,
     "errors": [],
-    "dup_by_id": 4
+    "dup_by_id": 50
    },
    "youtube": {
     "status": "ok",
-    "fetched": 57,
+    "fetched": 2,
     "old": 0,
-    "dropped": 37,
-    "borderline": 2,
-    "passed": 18,
-    "duplicates": 0,
-    "new": 18,
+    "dropped": 1,
+    "borderline": 0,
+    "passed": 1,
+    "duplicates": 1,
+    "new": 0,
     "baseline": 0,
-    "errors": []
+    "errors": [],
+    "dup_by_id": 1
    },
    "youtube_api": {
     "status": "skipped (YOUTUBE_API_KEY not set)",
@@ -85,12 +86,11 @@
     "dropped": 6,
     "borderline": 0,
     "passed": 10,
-    "duplicates": 2,
+    "duplicates": 10,
     "new": 0,
-    "baseline": 8,
+    "baseline": 0,
     "errors": [],
-    "dup_by_id": 1,
-    "dup_by_title": 1
+    "dup_by_id": 10
    },
    "ieeetv": {
     "status": "ok",
@@ -99,11 +99,11 @@
     "dropped": 0,
     "borderline": 0,
     "passed": 2,
-    "duplicates": 1,
+    "duplicates": 2,
     "new": 0,
-    "baseline": 1,
+    "baseline": 0,
     "errors": [],
-    "dup_by_id": 1
+    "dup_by_id": 2
    }
   }
  },
