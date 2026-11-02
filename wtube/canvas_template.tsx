@@ -1,6 +1,6 @@
 import { Page, Section, Metrics, Segmented, Toggle, Table, Status, Text, useState } from "grok/canvas";
 
-type Item = { t: string; u: string; k: string; s: string; tp: string; n?: number; nt?: number; f?: string; d?: string };
+type Item = { t: string; u: string; k: string; s: string; tp: string; n?: number; nt?: number; f?: string; d?: string; ci?: number; cm?: number };
 type Topic = { id: string; label: string; count: number; videos: number; new: number; new_today: number };
 type Src = { name: string; status: string; fetched: number; new: number };
 type Data = {
@@ -19,6 +19,8 @@ function TitleCell({ it }: { it: Item }) {
   return (
     <span>
       <a href={it.u} target="_blank" rel="noreferrer">{it.t}</a>
+      {typeof it.ci === "number" ? <span>{" · " + it.ci + (it.ci === 1 ? " citation" : " citations")}</span> : null}
+      {typeof it.cm === "number" ? <span>{" · " + it.cm + (it.cm === 1 ? " comment" : " comments")}</span> : null}
       {it.d ? <span> · <a href={it.d} target="_blank" rel="noreferrer">discussion</a></span> : null}
     </span>
   );
@@ -65,7 +67,7 @@ export default function App() {
         </Section>
       ) : null}
 
-      <Section heading="Browse by topic" id="topics" caption="Videos first within each topic, then papers, reports and pages.">
+      <Section heading="Browse by topic" id="topics" caption="Videos first within each topic. Inside a kind, order is recency plus citations and comments at equal weight.">
         <Segmented options={options} value={topic} onChange={setTopic} />
         <Toggle label="Videos only" value={videosOnly} onChange={setVideosOnly} />
         <Table columns={topic === "all" ? ["Title", "Topic", "Type", "Source", "Badge"] : ["Title", "Type", "Source", "Badge"]}

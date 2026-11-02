@@ -63,7 +63,29 @@ def connect(path=None):
     db = sqlite3.connect(path or config.DB_PATH)
     db.row_factory = sqlite3.Row
     db.executescript(SCHEMA)
+    migrate(db)
     return db
+
+def migrate(db):
+    """Additive migration for an existing wireless_tube.db. Safe to run every connect."""
+    db.executescript("""
+    CREATE TABLE IF NOT EXISTS citations (
+      item_key        TEXT PRIMARY KEY,
+      citation_count  INTEGER,             -- NULL when unknown; 0 is a real zero
+      status          TEXT NOT NULL,       -- ok | not_found | error
+      query           TEXT,
+      source          TEXT,                -- openalex
+      checked_at      TEXT,
+      error           TEXT
+    );
+    CREATE TABLE IF NOT EXISTS comment_cache (
+      item_key       TEXT PRIMARY KEY,
+      comment_count  INTEGER,
+      checked_at     TEXT,
+      error          TEXT
+    );
+    """)
+    db.commit()
 
 # ---------- canonical URL + keys ----------
 DROP_PARAMS = re.compile(r"^(utm_.*|si|feature|t|fbclid|gclid|ref|ref_src|source|pp|ab_channel|list|index)$", re.I)

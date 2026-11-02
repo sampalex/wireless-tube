@@ -47,10 +47,26 @@ def main():
     m = json.loads(re.search(r"const DATA: Data = (.*);\n", cv).group(1))
     chk("canvas.tsx items", len(m["items"]), p.ids["count-total"])
     chk("canvas.tsx New flags", sum(i.get("n", 0) for i in m["items"]), p.ids["count-new-7d"])
-    # order check: topic order, videos before other kinds inside each topic
+    # order check: topic order, videos before other kinds inside each topic,
+    # and rank non-increasing inside a topic+kind (recency + equal-weighted citations and comments)
     rank = {t: i for i, (t, _) in enumerate(config.TOPICS)}
     seq = [(rank[i["topic"]], i["kind"] != "video") for i in d["items"]]
     chk("sorted by topic, videos first", seq == sorted(seq), True)
+    from itertools import groupby
+    rank_ok = True
+    for _, grp in groupby(d["items"], key=lambda i: (i["topic"], i["kind"])):
+        rs = [i["rank"] for i in grp]
+        if rs != sorted(rs, reverse=True):
+            rank_ok = False
+    chk("rank within topic and kind", rank_ok, True)
+    cite_ok = q("SELECT COUNT(*) FROM citations WHERE status='ok'")
+    chk("data.json citation counts", sum(i.get("citation_count") is not None for i in d["items"]), cite_ok)
+    comment_ok = q("SELECT COUNT(*) FROM (SELECT item_key FROM mentions WHERE comments IS NOT NULL GROUP BY item_key)")
+    chk("data.json comment counts", sum(i.get("comment_count") is not None for i in d["items"]), comment_ok)
+    if cite_ok:
+        chk("html shows citation counts", 'class="cites"' in open(os.path.join(config.SITE_DIR, "index.html")).read(), True)
+    if comment_ok:
+        chk("html shows comment counts", 'class="comments"' in open(os.path.join(config.SITE_DIR, "index.html")).read(), True)
     print("ALL CHECKS PASSED" if not bad else f"FAILED: {bad}")
     sys.exit(1 if bad else 0)
 

@@ -23,6 +23,18 @@ DROP_SCORE = 2
 LLM_BORDERLINE = os.environ.get("WT_LLM_BORDERLINE", "0") == "1"   # hook only; v1 keeps it off
 HN_MIN_POINTS = int(os.environ.get("WT_HN_MIN_POINTS", "3"))
 
+# Display rank. Citations and comments use the same norm and equal coefficients.
+# Neither signal is weighted more than the other. See README "Ranking".
+RANK_CAP = 100                       # ln(1+n) saturates here; larger counts do not count more
+RANK_CITE_COEF = 0.5                 # equal to RANK_COMMENT_COEF
+RANK_COMMENT_COEF = 0.5              # equal to RANK_CITE_COEF
+RANK_HALF_LIFE_DAYS = 14
+CITATION_YOUNG_DAYS = 90             # published/first-seen younger than this refreshes daily
+CITATION_REFRESH_YOUNG_DAYS = 1
+CITATION_REFRESH_OLD_DAYS = 7        # older items refresh weekly
+OPENALEX_MAILTO = os.environ.get("WT_OPENALEX_MAILTO", "sampalex@users.noreply.github.com")
+OPENALEX_BATCH = 25
+
 # Case-sensitive acronyms (so "MiMo" / "6GB" / "nr" do not match)
 INCLUDE_CS = re.compile(r"\b(5G|5G-Advanced|6G|6GR|IMT-2030|3GPP|NR|PHY|MAC|HARQ|MLO|EHT|UHR|OFDMA?|OTFS|AFDM|MIMO|MU-MIMO|ISAC|JCAS|RIS|NTN|CSI|FR3|THz|mmWave|O-RAN|RAN|SDR|WLAN|BSS)\b")
 # Case-insensitive phrases

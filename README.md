@@ -37,6 +37,22 @@ Other commands:
 | ieeetv | IEEE.tv search pages | undated; the first run is a silent baseline |
 ACM's Digital Library blocks scraping, so ACM content arrives through the ACM SIGCOMM and SIGMOBILE YouTube channels.
 
+## Ranking
+The keep/drop filter (next section) is separate from the order on the page. Within each topic, videos still come first, then papers, reports, pages and threads. Inside a kind, items are ordered by `rank` (higher first):
+
+```
+norm(n) = min(1, ln(1 + n) / ln(1 + 100))
+cite_n    = norm(citations if known else 0)
+comment_n = norm(comments  if known else 0)
+engagement = 0.5 * cite_n + 0.5 * comment_n
+recency    = 0.5 ** (age_days / 14)
+rank       = recency + engagement
+```
+
+Citation counts and comment counts are weighted equally. Both use the same `norm` function, and the two coefficients are equal (both 0.5). Neither signal is weighted more than the other. A missing count is neutral: it is the same as a known zero, not a penalty below zero. Counts above 100 do not raise the signal any further, so a viral thread cannot outscore a paper that has also reached that cap. `age_days` is measured from `published_at` when that date is known, otherwise from `first_seen_at`. The half-life is 14 days, so a new paper with 0 citations (rank near 1) stays ahead of an old thread no matter how many comments it has.
+
+Citation counts come from the OpenAlex polite pool (`mailto`, no API key), cached in the `citations` table. Items younger than 90 days are re-checked daily; older ones weekly. An OpenAlex or Hacker News failure is skipped and the run continues. Comment counts are Hacker News `descendants`, stored on `mentions.comments` and shown on the card when known.
+
 ## Filter (wtube/filters.py)
 - Include terms carry weights; EXCLUDE terms are a hard veto.
 - Score ≥ 6 is kept; ≤ 2 is dropped.
@@ -54,7 +70,7 @@ ACM's Digital Library blocks scraping, so ACM content arrives through the ACM SI
 - `origin=check`: badged "New" for 7 days. It is "New today" if first seen in the last 24 h.
 
 ## Env vars
-YOUTUBE_API_KEY, WT_LLM_BORDERLINE, WT_DB (default ./wireless_tube.db), WT_SITE (default ./site), WT_ARXIV_MAX, WT_HN_MIN_POINTS.
+YOUTUBE_API_KEY, WT_LLM_BORDERLINE, WT_DB (default ./wireless_tube.db), WT_SITE (default ./site), WT_ARXIV_MAX, WT_HN_MIN_POINTS, WT_OPENALEX_MAILTO (OpenAlex polite-pool contact, default `sampalex@users.noreply.github.com`).
 
 ## Publishing
 GitHub Actions (`.github/workflows/publish.yml`) deploys `site/` to GitHub Pages at `https://sampalex.github.io/wireless-tube/`.

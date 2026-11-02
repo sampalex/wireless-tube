@@ -2,7 +2,7 @@
 """Daily checker: fetch all sources, filter, dedupe, store, then rebuild site/ (index.html, rss.xml, data.json, canvas.tsx).
 Usage: python3 check.py [--only hn,arxiv,...] [--no-build]"""
 import argparse, json, sys
-from wtube import pipeline, build
+from wtube import pipeline, build, citations
 
 def main():
     ap = argparse.ArgumentParser()
@@ -19,6 +19,15 @@ def main():
         for e in st["errors"][:5]:
             print(f"      error: {e}")
     print(f"TOTAL new items this run: {total_new}")
+    # Citation lookup is not a content source. A failure here must not fail the run or wipe the site.
+    try:
+        cst = citations.refresh()
+        print(f"citations  ok={cst['ok']:<4} with_count={cst['with_count']:<4} nonzero={cst['nonzero_total']:<4} "
+              f"not_found={cst['not_found']:<4} errors={cst['errors']:<3} fresh={cst['fresh']:<4} "
+              f"comments_updated={cst['comments_updated']:<3} comments_known={cst['comments_known']:<3} "
+              f"comment_errors={cst['comment_errors']}")
+    except Exception as e:
+        print(f"citations  failed gracefully ({type(e).__name__}: {e}); missing counts stay neutral")
     if not a.no_build:
         print(build.build())
     enabled = [st for st in stats.values() if not st["status"].startswith(("disabled", "skipped"))]

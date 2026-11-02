@@ -3,7 +3,7 @@ import html, json, os
 from datetime import timedelta
 from email.utils import format_datetime
 from zoneinfo import ZoneInfo
-from . import config, store
+from . import citations, config, store
 
 KIND_ORDER = {"video": 0, "paper": 1, "report": 2, "page": 3, "thread": 4}
 PT = ZoneInfo(config.TZ_DISPLAY)
@@ -22,18 +22,27 @@ def collect():
     ment = {}
     for m in db.execute("SELECT item_key, source FROM mentions"):
         ment.setdefault(m["item_key"], set()).add(m["source"])
+    cite_of, comment_of = citations.load_signals(db)
     items = []
     for r in rows:
         fs = store.parse_iso(r["first_seen_at"])
         is_new = r["origin"] == "check" and fs >= badge_cut
+        citation_count = cite_of.get(r["item_key"])
+        comment_count = comment_of.get(r["item_key"])
+        scored = citations.rank_score(citation_count, comment_count, r["published_at"], r["first_seen_at"], now)
+        when = store.parse_iso(r["published_at"]) or fs
         items.append(dict(
             key=r["item_key"], title=r["title"], url=r["url"], kind=r["kind"], topic=r["topic"],
             topic_label=config.TOPIC_LABEL.get(r["topic"], r["topic"]), site=r["site"] or "", origin=r["origin"],
             published_at=r["published_at"], first_seen_at=r["first_seen_at"], first_seen_pt=pt(r["first_seen_at"], "%b %-d, %Y"),
             is_new=is_new, new_today=is_new and fs >= today_cut, discussion_url=r["discussion_url"],
-            sources=sorted(ment.get(r["item_key"], [])), score=r["score"]))
-    items.sort(key=lambda i: (topic_rank.get(i["topic"], 99), KIND_ORDER.get(i["kind"], 9), not i["is_new"],
-                              -(store.parse_iso(i["published_at"]) or store.parse_iso(i["first_seen_at"])).timestamp()))
+            sources=sorted(ment.get(r["item_key"], [])), score=r["score"],
+            citation_count=citation_count, comment_count=comment_count, rank=round(scored["rank"], 6),
+            _ts=when.timestamp() if when else 0))
+    # Topic, then videos before other kinds. Inside a kind, rank (recency + equal-weighted citations and comments).
+    items.sort(key=lambda i: (topic_rank.get(i["topic"], 99), KIND_ORDER.get(i["kind"], 9), -i["rank"], -i["_ts"], i["key"]))
+    for i in items:
+        i.pop("_ts", None)
     last = db.execute("SELECT * FROM runs WHERE finished_at IS NOT NULL ORDER BY run_id DESC LIMIT 1").fetchone()
     topics = []
     for t, label in config.TOPICS:
@@ -64,8 +73,19 @@ li.item{background:var(--card);border:1px solid var(--line);border-radius:10px;p
 li.item a.t{color:var(--txt);font-weight:600;text-decoration:none}li.item a.t:hover{color:var(--acc)}
 .meta{font-size:12.5px;color:var(--mut);margin-top:4px}.kind{font-size:11px;text-transform:uppercase;letter-spacing:.04em;border:1px solid var(--line);border-radius:4px;padding:0 5px;margin-right:6px}
 .badge{display:inline-block;background:var(--new);color:#fff;font-size:11px;font-weight:700;border-radius:4px;padding:1px 6px;margin-right:6px;vertical-align:1px}
+.cites,.comments{color:var(--txt);font-weight:600}
 .empty{color:var(--mut);font-style:italic}footer{max-width:1100px;margin:auto;padding:0 20px 30px;font-size:12px;color:var(--mut)}
 """
+
+def _count_bits(i):
+    bits = []
+    if i.get("citation_count") is not None:
+        n = i["citation_count"]
+        bits.append(f'<span class="cites" data-citations="{n}">{n} citation{"" if n == 1 else "s"}</span>')
+    if i.get("comment_count") is not None:
+        n = i["comment_count"]
+        bits.append(f'<span class="comments" data-comments="{n}">{n} comment{"" if n == 1 else "s"}</span>')
+    return (" · " + " · ".join(bits)) if bits else ""
 
 def _li(i):
     badge = (f'<span class="badge" data-first-seen="{i["first_seen_at"]}" title="First seen {html.escape(i["first_seen_pt"])}">New</span>'
@@ -74,7 +94,7 @@ def _li(i):
     first = f' · first seen {html.escape(i["first_seen_pt"])}' if i["is_new"] else ""
     return (f'<li class="item{" is-new" if i["is_new"] else ""}" data-topic="{i["topic"]}" data-kind="{i["kind"]}">{badge}'
             f'<a class="t" href="{html.escape(i["url"])}" target="_blank" rel="noopener">{html.escape(i["title"])}</a>'
-            f'<div class="meta"><span class="kind">{i["kind"]}</span>{html.escape(i["site"])}{first}{disc}</div></li>')
+            f'<div class="meta"><span class="kind">{i["kind"]}</span>{html.escape(i["site"])}{_count_bits(i)}{first}{disc}</div></li>')
 
 def render_html(d):
     c = d["counts"]
@@ -105,7 +125,9 @@ def render_html(d):
                    + ("<ul class=items>" + "".join(_li(i) for i in its) + "</ul>" if its else "<p class=empty>No items yet.</p>") + "</section>")
     lr = d["last_run"]
     out.append(f"</main><footer>Last checker run #{lr['run_id']} started {html.escape(lr['started_at_pt'])}. " if lr else "</main><footer>")
-    out.append(f"New badges last {d['badge_days']} days from first sighting. Built {html.escape(d['generated_at'])}.</footer>"
+    out.append(f"New badges last {d['badge_days']} days from first sighting. "
+               f"Within each topic, videos come first; then recency plus citations and comments at equal weight. "
+               f"Built {html.escape(d['generated_at'])}.</footer>"
                # expire badges client-side too, so a stale build never shows an old New badge
                f"<script>var cut=Date.now()-{d['badge_days']}*864e5;document.querySelectorAll('.badge[data-first-seen]').forEach(function(b){{if(Date.parse(b.dataset.firstSeen)<cut)b.remove();}});</script>"
                "</body></html>")
@@ -131,6 +153,10 @@ def _slim(i):
         o["nt"] = 1
     if i["discussion_url"] and i["discussion_url"] != i["url"]:
         o["d"] = i["discussion_url"]
+    if i.get("citation_count") is not None:
+        o["ci"] = i["citation_count"]
+    if i.get("comment_count") is not None:
+        o["cm"] = i["comment_count"]
     return o
 
 def render_canvas(d):

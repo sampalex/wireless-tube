@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T16:38:48Z",
- "generated_at_pt": "Nov 2, 2026 8:38 AM PT",
+ "generated_at": "2026-11-02T16:54:24Z",
+ "generated_at_pt": "Nov 2, 2026 8:54 AM PT",
  "last_run": {
   "run_id": 2,
   "started_at_pt": "Nov 2, 2026 8:38 AM PT",
@@ -183,53 +183,13 @@
  ],
  "items": [
   {
-   "key": "yt:nkIfd2Op3Cw",
-   "title": "MobiCom26 Teaser - D Fault: Uncovering Disaggregation Faults in 5G RAN",
-   "url": "https://www.youtube.com/watch?v=nkIfd2Op3Cw",
+   "key": "yt:1EKftMB3PFo",
+   "title": "Webinar: Unpacking what's next in 5G Advanced Release 19",
+   "url": "https://www.youtube.com/watch?v=1EKftMB3PFo",
    "kind": "video",
    "topic": "5g",
    "topic_label": "5G",
-   "site": "YouTube · ACM SIGMOBILE ONLINE",
-   "origin": "check",
-   "published_at": "2026-10-24T17:51:44+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "acm"
-   ],
-   "score": 7
-  },
-  {
-   "key": "yt:Or4QNSnTpHY",
-   "title": "MobiCom26 Teaser - Golden Sniffer: Low Complexity 5G New Radio Signal Interception Exploiting Go",
-   "url": "https://www.youtube.com/watch?v=Or4QNSnTpHY",
-   "kind": "video",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "YouTube · ACM SIGMOBILE ONLINE",
-   "origin": "check",
-   "published_at": "2026-10-24T17:51:43+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "acm"
-   ],
-   "score": 9
-  },
-  {
-   "key": "yt:qerqp69ojQw",
-   "title": "Demystifying the 5G NR physical layer",
-   "url": "https://www.youtube.com/watch?v=qerqp69ojQw",
-   "kind": "video",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "Rohde & Schwarz · 44 min",
+   "site": "Qualcomm Research · 62 min",
    "origin": "seed",
    "published_at": null,
    "first_seen_at": "2026-11-02T15:49:09Z",
@@ -240,27 +200,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:fLLqX31RGVs",
-   "title": "5G NR MIMO Explained: Transport Block to Antenna Ports in 30 Minutes",
-   "url": "https://www.youtube.com/watch?v=fLLqX31RGVs",
-   "kind": "video",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "Wireless & AI",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:1P1wEVPaKHI",
@@ -280,67 +223,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:1EKftMB3PFo",
-   "title": "Webinar: Unpacking what's next in 5G Advanced Release 19",
-   "url": "https://www.youtube.com/watch?v=1EKftMB3PFo",
-   "kind": "video",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "Qualcomm Research · 62 min",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:H68y7FpuwkI",
-   "title": "Introduction to 3GPP Release 19 and 6G Planning",
-   "url": "https://www.youtube.com/watch?v=H68y7FpuwkI",
-   "kind": "video",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "ATIS · 58 min",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:F_w6-CeOVps",
-   "title": "SIGCOMM'25: Making Cellular Networks More Efficient By Roaming in Place",
-   "url": "https://www.youtube.com/watch?v=F_w6-CeOVps",
-   "kind": "video",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "ACM SIGCOMM",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:EGyVOGq_n4w",
@@ -360,7 +246,148 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:F_w6-CeOVps",
+   "title": "SIGCOMM'25: Making Cellular Networks More Efficient By Roaming in Place",
+   "url": "https://www.youtube.com/watch?v=F_w6-CeOVps",
+   "kind": "video",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "ACM SIGCOMM",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:H68y7FpuwkI",
+   "title": "Introduction to 3GPP Release 19 and 6G Planning",
+   "url": "https://www.youtube.com/watch?v=H68y7FpuwkI",
+   "kind": "video",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "ATIS · 58 min",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:fLLqX31RGVs",
+   "title": "5G NR MIMO Explained: Transport Block to Antenna Ports in 30 Minutes",
+   "url": "https://www.youtube.com/watch?v=fLLqX31RGVs",
+   "kind": "video",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "Wireless & AI",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:qerqp69ojQw",
+   "title": "Demystifying the 5G NR physical layer",
+   "url": "https://www.youtube.com/watch?v=qerqp69ojQw",
+   "kind": "video",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "Rohde & Schwarz · 44 min",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:nkIfd2Op3Cw",
+   "title": "MobiCom26 Teaser - D Fault: Uncovering Disaggregation Faults in 5G RAN",
+   "url": "https://www.youtube.com/watch?v=nkIfd2Op3Cw",
+   "kind": "video",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "YouTube · ACM SIGMOBILE ONLINE",
+   "origin": "check",
+   "published_at": "2026-10-24T17:51:44+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "acm"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.641707
+  },
+  {
+   "key": "yt:Or4QNSnTpHY",
+   "title": "MobiCom26 Teaser - Golden Sniffer: Low Complexity 5G New Radio Signal Interception Exploiting Go",
+   "url": "https://www.youtube.com/watch?v=Or4QNSnTpHY",
+   "kind": "video",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "YouTube · ACM SIGMOBILE ONLINE",
+   "origin": "check",
+   "published_at": "2026-10-24T17:51:43+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "acm"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.641707
   },
   {
    "key": "arxiv:2610.36602",
@@ -380,7 +407,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.723585
   },
   {
    "key": "arxiv:2610.37435",
@@ -401,7 +431,10 @@
     "arxiv",
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.71753
   },
   {
    "key": "arxiv:2605.27005",
@@ -421,27 +454,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "url:998e53dd2f62b6e7",
-   "title": "Release 19",
-   "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
-   "kind": "page",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "3GPP",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:49Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.00035
   },
   {
    "key": "hn:27946947",
@@ -461,7 +477,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 117,
+   "rank": 1.497759
+  },
+  {
+   "key": "url:998e53dd2f62b6e7",
+   "title": "Release 19",
+   "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+   "kind": "page",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "3GPP",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:49Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997782
   },
   {
    "key": "hn:49036136",
@@ -481,47 +523,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:IP56Fy4VGCk",
-   "title": "Episode 30: “AI-Native 6G Communications, Computing and Sensing: An Industry Perspective”",
-   "url": "https://www.youtube.com/watch?v=IP56Fy4VGCk",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "YouTube · IEEE ComSoc",
-   "origin": "check",
-   "published_at": "2026-10-23T14:00:31+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "ieee"
-   ],
-   "score": 9
-  },
-  {
-   "key": "yt:w6waxD3dZoE",
-   "title": "6G Waves issue 12 will be out 28th October!",
-   "url": "https://www.youtube.com/watch?v=w6waxD3dZoE",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "YouTube · 6G Flagship",
-   "origin": "check",
-   "published_at": "2026-10-20T08:07:22+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 9
+   "score": null,
+   "citation_count": null,
+   "comment_count": 11,
+   "rank": 0.275717
   },
   {
    "key": "url:6f7dea331795c2b0",
@@ -541,7 +546,10 @@
    "sources": [
     "ieeetv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
   },
   {
    "key": "yt:9wSUqX3x6CE",
@@ -561,16 +569,19 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997782
   },
   {
-   "key": "yt:70BOKA0PmdE",
-   "title": "6G: What, why, and how?",
-   "url": "https://www.youtube.com/watch?v=70BOKA0PmdE",
+   "key": "url:34c12b14a9ec9614",
+   "title": "Day 1 Brooklyn 6G Summit 2025 (complete stream)",
+   "url": "https://ieeetv.ieee.org/video/day-1-brooklyn-6g-summit-2025-complete-stream",
    "kind": "video",
    "topic": "6g",
    "topic_label": "6G",
-   "site": "Wireless Future",
+   "site": "IEEE.tv",
    "origin": "seed",
    "published_at": null,
    "first_seen_at": "2026-11-02T15:49:09Z",
@@ -581,147 +592,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:KE9CFHA_te4",
-   "title": "Webinar: 3GPP Release 20 - Completing the 5G Advanced evolution and preparing for 6G",
-   "url": "https://www.youtube.com/watch?v=KE9CFHA_te4",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Qualcomm Research",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:K4SUb2YywSw",
-   "title": "Episode 26: What are we expecting from 6G?: Waveform design and NTN perspective",
-   "url": "https://www.youtube.com/watch?v=K4SUb2YywSw",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "IEEE ComSoc",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:W-t_xVumcCY",
-   "title": "6G RAN with Deeply Integrated Communication, Sensing and AI",
-   "url": "https://www.youtube.com/watch?v=W-t_xVumcCY",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "IEEE ComSoc",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:_lNV28z7wIQ",
-   "title": "Introduction to Integrated Sensing and Communication (ISAC)",
-   "url": "https://www.youtube.com/watch?v=_lNV28z7wIQ",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Wireless Future",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:FgSmj3rjCsQ",
-   "title": "Wireless Keynote; Onward to 6G! Jeffrey Andrews",
-   "url": "https://www.youtube.com/watch?v=FgSmj3rjCsQ",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "TFI Technology Conference",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:VA95nQOVAtY",
-   "title": "6G AI native air interface proof of concept",
-   "url": "https://www.youtube.com/watch?v=VA95nQOVAtY",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Nokia Bell Labs",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:Bayghex4RD0",
-   "title": "Rohde & Schwarz Demonstrates FR1-FR3 Carrier Aggregation for 6G",
-   "url": "https://www.youtube.com/watch?v=Bayghex4RD0",
-   "kind": "video",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Rohde & Schwarz",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "url:3816839244218fa3",
@@ -742,16 +616,19 @@
     "ieeetv",
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
-   "key": "url:34c12b14a9ec9614",
-   "title": "Day 1 Brooklyn 6G Summit 2025 (complete stream)",
-   "url": "https://ieeetv.ieee.org/video/day-1-brooklyn-6g-summit-2025-complete-stream",
+   "key": "yt:70BOKA0PmdE",
+   "title": "6G: What, why, and how?",
+   "url": "https://www.youtube.com/watch?v=70BOKA0PmdE",
    "kind": "video",
    "topic": "6g",
    "topic_label": "6G",
-   "site": "IEEE.tv",
+   "site": "Wireless Future",
    "origin": "seed",
    "published_at": null,
    "first_seen_at": "2026-11-02T15:49:09Z",
@@ -762,7 +639,217 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:Bayghex4RD0",
+   "title": "Rohde & Schwarz Demonstrates FR1-FR3 Carrier Aggregation for 6G",
+   "url": "https://www.youtube.com/watch?v=Bayghex4RD0",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Rohde & Schwarz",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:FgSmj3rjCsQ",
+   "title": "Wireless Keynote; Onward to 6G! Jeffrey Andrews",
+   "url": "https://www.youtube.com/watch?v=FgSmj3rjCsQ",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "TFI Technology Conference",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:K4SUb2YywSw",
+   "title": "Episode 26: What are we expecting from 6G?: Waveform design and NTN perspective",
+   "url": "https://www.youtube.com/watch?v=K4SUb2YywSw",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "IEEE ComSoc",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:KE9CFHA_te4",
+   "title": "Webinar: 3GPP Release 20 - Completing the 5G Advanced evolution and preparing for 6G",
+   "url": "https://www.youtube.com/watch?v=KE9CFHA_te4",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Qualcomm Research",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:VA95nQOVAtY",
+   "title": "6G AI native air interface proof of concept",
+   "url": "https://www.youtube.com/watch?v=VA95nQOVAtY",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Nokia Bell Labs",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:W-t_xVumcCY",
+   "title": "6G RAN with Deeply Integrated Communication, Sensing and AI",
+   "url": "https://www.youtube.com/watch?v=W-t_xVumcCY",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "IEEE ComSoc",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:_lNV28z7wIQ",
+   "title": "Introduction to Integrated Sensing and Communication (ISAC)",
+   "url": "https://www.youtube.com/watch?v=_lNV28z7wIQ",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Wireless Future",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:IP56Fy4VGCk",
+   "title": "Episode 30: “AI-Native 6G Communications, Computing and Sensing: An Industry Perspective”",
+   "url": "https://www.youtube.com/watch?v=IP56Fy4VGCk",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "YouTube · IEEE ComSoc",
+   "origin": "check",
+   "published_at": "2026-10-23T14:00:31+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "ieee"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.605874
+  },
+  {
+   "key": "yt:w6waxD3dZoE",
+   "title": "6G Waves issue 12 will be out 28th October!",
+   "url": "https://www.youtube.com/watch?v=w6waxD3dZoE",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "YouTube · 6G Flagship",
+   "origin": "check",
+   "published_at": "2026-10-20T08:07:22+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.515944
   },
   {
    "key": "yt:JXj3l_XW5-U",
@@ -782,7 +869,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.000774
   },
   {
    "key": "yt:mT5q_9uz9rM",
@@ -802,107 +892,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "arxiv:2610.41744",
-   "title": "Feasibility of Common-Stream-Only Sensing in ZF-RSMA with Imperfect CSIT",
-   "url": "https://arxiv.org/abs/2610.41744",
-   "kind": "paper",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "arXiv cs.IT",
-   "origin": "check",
-   "published_at": "2026-10-30T13:50:03Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 7
-  },
-  {
-   "key": "arxiv:2610.41382",
-   "title": "Fluid Antenna Systems for ISAC Design: A Survey",
-   "url": "https://arxiv.org/abs/2610.41382",
-   "kind": "paper",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-30T07:47:00Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 7
-  },
-  {
-   "key": "arxiv:2610.41380",
-   "title": "Pinching Antennas for ISAC: Waveguide Architectures, Solutions, and Future Directions",
-   "url": "https://arxiv.org/abs/2610.41380",
-   "kind": "paper",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-30T07:45:16Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 13
-  },
-  {
-   "key": "arxiv:2610.41144",
-   "title": "On the Communication-Sensing Tradeoff in DMT-Optimal Space-time-Coded ISAC Systems",
-   "url": "https://arxiv.org/abs/2610.41144",
-   "kind": "paper",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "arXiv cs.IT",
-   "origin": "check",
-   "published_at": "2026-10-30T02:04:52Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 13
-  },
-  {
-   "key": "arxiv:2610.40586",
-   "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
-   "url": "https://arxiv.org/abs/2610.40586",
-   "kind": "paper",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "arXiv cs.NI",
-   "origin": "check",
-   "published_at": "2026-10-29T17:47:02Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 9
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 4.4e-05
   },
   {
    "key": "arxiv:2610.40306",
@@ -922,7 +915,125 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 5,
+   "comment_count": null,
+   "rank": 1.012566
+  },
+  {
+   "key": "arxiv:2610.41744",
+   "title": "Feasibility of Common-Stream-Only Sensing in ZF-RSMA with Imperfect CSIT",
+   "url": "https://arxiv.org/abs/2610.41744",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-10-30T13:50:03Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.856527
+  },
+  {
+   "key": "arxiv:2610.41382",
+   "title": "Fluid Antenna Systems for ISAC Design: A Survey",
+   "url": "https://arxiv.org/abs/2610.41382",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-30T07:47:00Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.845901
+  },
+  {
+   "key": "arxiv:2610.41380",
+   "title": "Pinching Antennas for ISAC: Waveguide Architectures, Solutions, and Future Directions",
+   "url": "https://arxiv.org/abs/2610.41380",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-30T07:45:16Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.845851
+  },
+  {
+   "key": "arxiv:2610.41144",
+   "title": "On the Communication-Sensing Tradeoff in DMT-Optimal Space-time-Coded ISAC Systems",
+   "url": "https://arxiv.org/abs/2610.41144",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-10-30T02:04:52Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.836009
+  },
+  {
+   "key": "arxiv:2610.40586",
+   "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+   "url": "https://arxiv.org/abs/2610.40586",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv cs.NI",
+   "origin": "check",
+   "published_at": "2026-10-29T17:47:02Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.821821
   },
   {
    "key": "arxiv:2610.38772",
@@ -942,7 +1053,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 13
+   "score": 13,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.785361
   },
   {
    "key": "arxiv:2610.38395",
@@ -962,7 +1076,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.765939
   },
   {
    "key": "arxiv:2610.37480",
@@ -982,7 +1099,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.741791
   },
   {
    "key": "arxiv:2610.36351",
@@ -1002,7 +1122,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.714999
   },
   {
    "key": "arxiv:2610.36147",
@@ -1022,7 +1145,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 13
+   "score": 13,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.709949
   },
   {
    "key": "arxiv:2610.35649",
@@ -1042,27 +1168,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
-  },
-  {
-   "key": "arxiv:2610.22995",
-   "title": "Integrated Sensing and Communication in 3GPP: Standardization, Performance Evaluation, and Experimental Validation Toward 6G",
-   "url": "https://arxiv.org/abs/2610.22995",
-   "kind": "paper",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "arXiv",
-   "origin": "seed",
-   "published_at": "2026-10-16",
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.705678
   },
   {
    "key": "arxiv:2610.16184",
@@ -1082,7 +1191,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 1,
+   "comment_count": null,
+   "rank": 0.41653
+  },
+  {
+   "key": "arxiv:2610.22995",
+   "title": "Integrated Sensing and Communication in 3GPP: Standardization, Performance Evaluation, and Experimental Validation Toward 6G",
+   "url": "https://arxiv.org/abs/2610.22995",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv",
+   "origin": "seed",
+   "published_at": "2026-10-16",
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.416214
   },
   {
    "key": "arxiv:2608.22918",
@@ -1102,7 +1237,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.030179
   },
   {
    "key": "url:c1bfdf47d26ae2d9",
@@ -1123,7 +1261,10 @@
     "nga",
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "url:c9d1568cdfafb3c9",
@@ -1143,127 +1284,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "url:b54b97f7528584be",
-   "title": "White Paper: 6G Spectrum Recommendations",
-   "url": "https://nextgalliance.org/highlights/white-paper-6g-spectrum-recommendations/",
-   "kind": "page",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Next G Alliance",
-   "origin": "baseline",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "nga"
-   ],
-   "score": 7
-  },
-  {
-   "key": "url:cfc0b56ebece6057",
-   "title": "6G’s Value Proposition Takes Shape: Inside the First NGA–XGMF–6G Forum Trilateral Workshop",
-   "url": "https://nextgalliance.org/highlights/6gs-value-proposition-takes-shape-inside-the-first-nga-xgmf-6g-forum-trilateral-workshop/",
-   "kind": "page",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Next G Alliance",
-   "origin": "baseline",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "nga"
-   ],
-   "score": 7
-  },
-  {
-   "key": "url:973853d4eab86c11",
-   "title": "Turning 6G Networks into a New Source of Real-World Intelligence",
-   "url": "https://nextgalliance.org/highlights/turning-6g-networks-into-a-new-source-of-real-world-intelligence/",
-   "kind": "page",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Next G Alliance",
-   "origin": "baseline",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "nga"
-   ],
-   "score": 7
-  },
-  {
-   "key": "url:6bc4a5bae1ee9f9e",
-   "title": "NTIA Administrator Arielle Roth to Present at 6G Summit Highlighting U.S. Efforts to Demonstrate 6G Leadership",
-   "url": "https://nextgalliance.org/highlights/ntia-administrator-arielle-roth-to-present-at-6g-summit-highlighting-u-s-efforts-to-demonstrate-6g-leadership/",
-   "kind": "page",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Next G Alliance",
-   "origin": "baseline",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "nga"
-   ],
-   "score": 7
-  },
-  {
-   "key": "url:568ebf5a4ee40601",
-   "title": "Bringing the Next G Alliance 6G Vision to Vertical Markets",
-   "url": "https://nextgalliance.org/highlights/bringing-the-next-g-alliance-6g-vision-to-vertical-markets/",
-   "kind": "page",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Next G Alliance",
-   "origin": "baseline",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "nga"
-   ],
-   "score": 7
-  },
-  {
-   "key": "url:6bb2982eca1109be",
-   "title": "Next G Alliance Releases Spectrum Recommendations to Advance the 6G Future",
-   "url": "https://nextgalliance.org/press-releases/next-g-alliance-releases-spectrum-recommendations-to-advance-the-6g-future-2/",
-   "kind": "page",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "Next G Alliance",
-   "origin": "baseline",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "nga"
-   ],
-   "score": 7
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "url:3452b454ffb39a67",
@@ -1283,7 +1307,79 @@
    "sources": [
     "nga"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
+  },
+  {
+   "key": "url:568ebf5a4ee40601",
+   "title": "Bringing the Next G Alliance 6G Vision to Vertical Markets",
+   "url": "https://nextgalliance.org/highlights/bringing-the-next-g-alliance-6g-vision-to-vertical-markets/",
+   "kind": "page",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Next G Alliance",
+   "origin": "baseline",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "nga"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
+  },
+  {
+   "key": "url:6bb2982eca1109be",
+   "title": "Next G Alliance Releases Spectrum Recommendations to Advance the 6G Future",
+   "url": "https://nextgalliance.org/press-releases/next-g-alliance-releases-spectrum-recommendations-to-advance-the-6g-future-2/",
+   "kind": "page",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Next G Alliance",
+   "origin": "baseline",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "nga"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
+  },
+  {
+   "key": "url:6bc4a5bae1ee9f9e",
+   "title": "NTIA Administrator Arielle Roth to Present at 6G Summit Highlighting U.S. Efforts to Demonstrate 6G Leadership",
+   "url": "https://nextgalliance.org/highlights/ntia-administrator-arielle-roth-to-present-at-6g-summit-highlighting-u-s-efforts-to-demonstrate-6g-leadership/",
+   "kind": "page",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Next G Alliance",
+   "origin": "baseline",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "nga"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
   },
   {
    "key": "url:844f23d8b019fb81",
@@ -1303,7 +1399,79 @@
    "sources": [
     "nga"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
+  },
+  {
+   "key": "url:973853d4eab86c11",
+   "title": "Turning 6G Networks into a New Source of Real-World Intelligence",
+   "url": "https://nextgalliance.org/highlights/turning-6g-networks-into-a-new-source-of-real-world-intelligence/",
+   "kind": "page",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Next G Alliance",
+   "origin": "baseline",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "nga"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
+  },
+  {
+   "key": "url:b54b97f7528584be",
+   "title": "White Paper: 6G Spectrum Recommendations",
+   "url": "https://nextgalliance.org/highlights/white-paper-6g-spectrum-recommendations/",
+   "kind": "page",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Next G Alliance",
+   "origin": "baseline",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "nga"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
+  },
+  {
+   "key": "url:cfc0b56ebece6057",
+   "title": "6G’s Value Proposition Takes Shape: Inside the First NGA–XGMF–6G Forum Trilateral Workshop",
+   "url": "https://nextgalliance.org/highlights/6gs-value-proposition-takes-shape-inside-the-first-nga-xgmf-6g-forum-trilateral-workshop/",
+   "kind": "page",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "Next G Alliance",
+   "origin": "baseline",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "nga"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997839
   },
   {
    "key": "url:4fca3646149341f3",
@@ -1323,7 +1491,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "url:dc5def540e9b8c99",
@@ -1343,7 +1514,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.000898
   },
   {
    "key": "url:6a8ddb9df88d3128",
@@ -1363,307 +1537,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:CIkwoNxj9y4",
-   "title": "How I Cracked My Wi-Fi Password in Under 3 Minutes",
-   "url": "https://www.youtube.com/watch?v=CIkwoNxj9y4",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Frame Level Wi-Fi with Rasika",
-   "origin": "check",
-   "published_at": "2026-11-02T00:26:20+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 7
-  },
-  {
-   "key": "yt:hGu7IIyuRlY",
-   "title": "Connecting the Dots - How MCP Enables Wi-Fi AI Agents | Jean Macq | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=hGu7IIyuRlY",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:55+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 13
-  },
-  {
-   "key": "yt:qt88EYp7ngk",
-   "title": "Leave-Behind Wi-Fi Sensors Don't Have to Break the Bank | Daniel Bozeman | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=qt88EYp7ngk",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:55+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 11
-  },
-  {
-   "key": "yt:dq0EEmaiXdI",
-   "title": "Roaming Simplified - Explaining the Wi-Fi Handoff | Gurpreet Singh | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=dq0EEmaiXdI",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:54+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 11
-  },
-  {
-   "key": "yt:8G8SGZj74zA",
-   "title": "The Inner Life of UWB - A Story in Nanoseconds | Peter Khoury | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=8G8SGZj74zA",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:51+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 9
-  },
-  {
-   "key": "yt:GHhIVQe-3dg",
-   "title": "Should You Apply a Queue to the Wi-Fi | Jono Thompson | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=GHhIVQe-3dg",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:51+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 7
-  },
-  {
-   "key": "yt:POuPMgHDoHQ",
-   "title": "Keith Parsons Is Wrong (about Almost Everything) | Jake Snyder | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=POuPMgHDoHQ",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:51+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 9
-  },
-  {
-   "key": "yt:W1Js9GNkWKg",
-   "title": "Designing Wireless for a 650 Year Old Castle | Stefan Kronawithleitner | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=W1Js9GNkWKg",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:51+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 11
-  },
-  {
-   "key": "yt:dJ7qp71r4No",
-   "title": "Bandwidth Is a Red Herring | Falk Bachmann | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=dJ7qp71r4No",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:51+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 13
-  },
-  {
-   "key": "yt:2KAFUAwajZk",
-   "title": "How to Read the 802.11 Standard | Karsten Iwen | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=2KAFUAwajZk",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:50+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 7
-  },
-  {
-   "key": "yt:4AYUJE8fi1I",
-   "title": "Top 6 Tips for Wi-Fi Design and Configuration Best Practices | Hans Van Ballaer | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=4AYUJE8fi1I",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:50+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 11
-  },
-  {
-   "key": "yt:CbOElleT2hk",
-   "title": "Wi-Fi 8 - The Breakdown Nobody Else Will Give You | David Coleman | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=CbOElleT2hk",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:16:50+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 15
-  },
-  {
-   "key": "yt:jTV4flu8nHM",
-   "title": "Every Step Counts - Mindful Walking for Wi-Fi Engineers | Rasika Nayanajith | WLPC Prague 2026",
-   "url": "https://www.youtube.com/watch?v=jTV4flu8nHM",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "YouTube · Wireless LAN Professionals",
-   "origin": "check",
-   "published_at": "2026-10-23T19:11:46+00:00",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "youtube"
-   ],
-   "score": 11
-  },
-  {
-   "key": "yt:f2EAPpBLass",
-   "title": "Harnessing the Power of Wi-Fi 7 with MLO & Punctured Transmission | Jim Palmer | WLPC Phoenix 2025",
-   "url": "https://www.youtube.com/watch?v=f2EAPpBLass",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "Wireless LAN Professionals",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:NVp84UlV0Ww",
-   "title": "The Wonderful World of Wi Fi 7 (and 802.11be) with Phil Morgan",
-   "url": "https://www.youtube.com/watch?v=NVp84UlV0Ww",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "CWNPTV · 51 min",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.000736
   },
   {
    "key": "yt:37RH0UcvgUM",
@@ -1683,87 +1560,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:zVSpOHXop8A",
-   "title": "Industry Session 2 (Qualcomm): 802.11be WLAN Physical Layer",
-   "url": "https://www.youtube.com/watch?v=zVSpOHXop8A",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "JTG Summer School, IIT Mandi · 62 min",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:8axrTAheuc4",
-   "title": "What to Expect from Wi-Fi 8 (802.11bn)",
-   "url": "https://www.youtube.com/watch?v=8axrTAheuc4",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "Alethea Communications",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:jyv_AuFiMA4",
-   "title": "Wi-Fi 8 Updates | Dr Srikanth | WLPC Prague 2025",
-   "url": "https://www.youtube.com/watch?v=jyv_AuFiMA4",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "Wireless LAN Professionals",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:gjdHpZWxujA",
-   "title": "OFDMA – The Secret Sauce of 802.11ax | David Coleman",
-   "url": "https://www.youtube.com/watch?v=gjdHpZWxujA",
-   "kind": "video",
-   "topic": "wifi",
-   "topic_label": "Wi-Fi 6/6E/7/8",
-   "site": "Wireless LAN Professionals",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:5kAxzGzOpUU",
@@ -1783,7 +1583,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:8axrTAheuc4",
+   "title": "What to Expect from Wi-Fi 8 (802.11bn)",
+   "url": "https://www.youtube.com/watch?v=8axrTAheuc4",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "Alethea Communications",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:Is2FoGBUI08",
@@ -1803,7 +1629,102 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:NVp84UlV0Ww",
+   "title": "The Wonderful World of Wi Fi 7 (and 802.11be) with Phil Morgan",
+   "url": "https://www.youtube.com/watch?v=NVp84UlV0Ww",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "CWNPTV · 51 min",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:f2EAPpBLass",
+   "title": "Harnessing the Power of Wi-Fi 7 with MLO & Punctured Transmission | Jim Palmer | WLPC Phoenix 2025",
+   "url": "https://www.youtube.com/watch?v=f2EAPpBLass",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "Wireless LAN Professionals",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:gjdHpZWxujA",
+   "title": "OFDMA – The Secret Sauce of 802.11ax | David Coleman",
+   "url": "https://www.youtube.com/watch?v=gjdHpZWxujA",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "Wireless LAN Professionals",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:jyv_AuFiMA4",
+   "title": "Wi-Fi 8 Updates | Dr Srikanth | WLPC Prague 2025",
+   "url": "https://www.youtube.com/watch?v=jyv_AuFiMA4",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "Wireless LAN Professionals",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:sXwDrcd1t-E",
@@ -1823,7 +1744,332 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:zVSpOHXop8A",
+   "title": "Industry Session 2 (Qualcomm): 802.11be WLAN Physical Layer",
+   "url": "https://www.youtube.com/watch?v=zVSpOHXop8A",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "JTG Summer School, IIT Mandi · 62 min",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:CIkwoNxj9y4",
+   "title": "How I Cracked My Wi-Fi Password in Under 3 Minutes",
+   "url": "https://www.youtube.com/watch?v=CIkwoNxj9y4",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Frame Level Wi-Fi with Rasika",
+   "origin": "check",
+   "published_at": "2026-11-02T00:26:20+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.966599
+  },
+  {
+   "key": "yt:hGu7IIyuRlY",
+   "title": "Connecting the Dots - How MCP Enables Wi-Fi AI Agents | Jean Macq | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=hGu7IIyuRlY",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:55+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612501
+  },
+  {
+   "key": "yt:qt88EYp7ngk",
+   "title": "Leave-Behind Wi-Fi Sensors Don't Have to Break the Bank | Daniel Bozeman | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=qt88EYp7ngk",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:55+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612501
+  },
+  {
+   "key": "yt:dq0EEmaiXdI",
+   "title": "Roaming Simplified - Explaining the Wi-Fi Handoff | Gurpreet Singh | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=dq0EEmaiXdI",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:54+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.6125
+  },
+  {
+   "key": "yt:8G8SGZj74zA",
+   "title": "The Inner Life of UWB - A Story in Nanoseconds | Peter Khoury | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=8G8SGZj74zA",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:51+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:GHhIVQe-3dg",
+   "title": "Should You Apply a Queue to the Wi-Fi | Jono Thompson | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=GHhIVQe-3dg",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:51+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:POuPMgHDoHQ",
+   "title": "Keith Parsons Is Wrong (about Almost Everything) | Jake Snyder | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=POuPMgHDoHQ",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:51+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:W1Js9GNkWKg",
+   "title": "Designing Wireless for a 650 Year Old Castle | Stefan Kronawithleitner | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=W1Js9GNkWKg",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:51+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:dJ7qp71r4No",
+   "title": "Bandwidth Is a Red Herring | Falk Bachmann | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=dJ7qp71r4No",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:51+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:2KAFUAwajZk",
+   "title": "How to Read the 802.11 Standard | Karsten Iwen | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=2KAFUAwajZk",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:50+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:4AYUJE8fi1I",
+   "title": "Top 6 Tips for Wi-Fi Design and Configuration Best Practices | Hans Van Ballaer | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=4AYUJE8fi1I",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:50+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:CbOElleT2hk",
+   "title": "Wi-Fi 8 - The Breakdown Nobody Else Will Give You | David Coleman | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=CbOElleT2hk",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:16:50+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 15,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612499
+  },
+  {
+   "key": "yt:jTV4flu8nHM",
+   "title": "Every Step Counts - Mindful Walking for Wi-Fi Engineers | Rasika Nayanajith | WLPC Prague 2026",
+   "url": "https://www.youtube.com/watch?v=jTV4flu8nHM",
+   "kind": "video",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "YouTube · Wireless LAN Professionals",
+   "origin": "check",
+   "published_at": "2026-10-23T19:11:46+00:00",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.612392
   },
   {
    "key": "arxiv:2610.41469",
@@ -1843,7 +2089,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.848606
   },
   {
    "key": "arxiv:2610.37007",
@@ -1863,7 +2112,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.733759
   },
   {
    "key": "arxiv:2607.19931",
@@ -1883,7 +2135,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.00589
   },
   {
    "key": "arxiv:2606.25435",
@@ -1903,7 +2158,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.001473
   },
   {
    "key": "arxiv:2606.13759",
@@ -1923,7 +2181,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.000774
   },
   {
    "key": "hn:43187473",
@@ -1943,7 +2204,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 46,
+   "rank": 1.414882
   },
   {
    "key": "hn:50055593",
@@ -1963,7 +2227,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 126,
+   "rank": 0.841435
   },
   {
    "key": "hn:49406539",
@@ -1983,7 +2250,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 291,
+   "rank": 0.528721
   },
   {
    "key": "hn:48037760",
@@ -2003,7 +2273,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 103,
+   "rank": 0.50013
   },
   {
    "key": "hn:45784729",
@@ -2023,7 +2296,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 136,
+   "rank": 0.5
   },
   {
    "key": "url:12b8621a0ad655c8",
@@ -2043,67 +2319,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:jy4kBAzJCKM",
-   "title": "IEEE 802.11 Wi-Fi Frame Format",
-   "url": "https://www.youtube.com/watch?v=jy4kBAzJCKM",
-   "kind": "video",
-   "topic": "macphy",
-   "topic_label": "MAC/PHY protocols",
-   "site": "Neso Academy",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:hwWh9hUwYSA",
-   "title": "Understanding the MAC Layer in WiFi: Sub-layers and WiFi Frame Elements",
-   "url": "https://www.youtube.com/watch?v=hwWh9hUwYSA",
-   "kind": "video",
-   "topic": "macphy",
-   "topic_label": "MAC/PHY protocols",
-   "site": "Canadiantechjourney",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:C6vZO9I8HfA",
-   "title": "5G NR HARQ Processes explained",
-   "url": "https://www.youtube.com/watch?v=C6vZO9I8HfA",
-   "kind": "video",
-   "topic": "macphy",
-   "topic_label": "MAC/PHY protocols",
-   "site": "Wireless & AI",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 1e-06
   },
   {
    "key": "yt:7ocG9QfgiMQ",
@@ -2123,7 +2342,79 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:C6vZO9I8HfA",
+   "title": "5G NR HARQ Processes explained",
+   "url": "https://www.youtube.com/watch?v=C6vZO9I8HfA",
+   "kind": "video",
+   "topic": "macphy",
+   "topic_label": "MAC/PHY protocols",
+   "site": "Wireless & AI",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:hwWh9hUwYSA",
+   "title": "Understanding the MAC Layer in WiFi: Sub-layers and WiFi Frame Elements",
+   "url": "https://www.youtube.com/watch?v=hwWh9hUwYSA",
+   "kind": "video",
+   "topic": "macphy",
+   "topic_label": "MAC/PHY protocols",
+   "site": "Canadiantechjourney",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:jy4kBAzJCKM",
+   "title": "IEEE 802.11 Wi-Fi Frame Format",
+   "url": "https://www.youtube.com/watch?v=jy4kBAzJCKM",
+   "kind": "video",
+   "topic": "macphy",
+   "topic_label": "MAC/PHY protocols",
+   "site": "Neso Academy",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "arxiv:2610.39290",
@@ -2143,7 +2434,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.798241
   },
   {
    "key": "arxiv:2610.36868",
@@ -2163,7 +2457,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.71753
   },
   {
    "key": "arxiv:2609.29846",
@@ -2183,7 +2480,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.140046
   },
   {
    "key": "arxiv:2609.28852",
@@ -2203,7 +2503,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.133281
   },
   {
    "key": "arxiv:2608.04338",
@@ -2223,7 +2526,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.01178
   },
   {
    "key": "hn:24273919",
@@ -2243,7 +2549,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 84,
+   "rank": 1.479074
   },
   {
    "key": "hn:25814237",
@@ -2263,7 +2572,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 55,
+   "rank": 1.433864
   },
   {
    "key": "hn:17290302",
@@ -2283,7 +2595,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 10,
+   "rank": 1.257546
   },
   {
    "key": "hn:45941025",
@@ -2303,27 +2618,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:F6B4Kyj2rLw",
-   "title": "OFDM Waveforms",
-   "url": "https://www.youtube.com/watch?v=F6B4Kyj2rLw",
-   "kind": "video",
-   "topic": "sp",
-   "topic_label": "Signal processing",
-   "site": "Iain Explains Signals",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 14,
+   "rank": 0.293389
   },
   {
    "key": "yt:-xdcndtzrFc",
@@ -2343,16 +2641,19 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
-   "key": "yt:zOziioXnn-k",
-   "title": "OFDM Tutorial Series: OFDM Fundamentals",
-   "url": "https://www.youtube.com/watch?v=zOziioXnn-k",
+   "key": "yt:F6B4Kyj2rLw",
+   "title": "OFDM Waveforms",
+   "url": "https://www.youtube.com/watch?v=F6B4Kyj2rLw",
    "kind": "video",
    "topic": "sp",
    "topic_label": "Signal processing",
-   "site": "Silicon DSP Corporation · 53 min",
+   "site": "Iain Explains Signals",
    "origin": "seed",
    "published_at": null,
    "first_seen_at": "2026-11-02T15:49:09Z",
@@ -2363,27 +2664,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:o-ZqKY6NqRU",
-   "title": "Physics and Signal Processing | Troy Martin | WLPC Prague 2025",
-   "url": "https://www.youtube.com/watch?v=o-ZqKY6NqRU",
-   "kind": "video",
-   "topic": "sp",
-   "topic_label": "Signal processing",
-   "site": "Wireless LAN Professionals",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:V9GwqFoN2WI",
@@ -2403,7 +2687,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:nmgFG7PUHfo",
@@ -2423,7 +2710,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:o-ZqKY6NqRU",
+   "title": "Physics and Signal Processing | Troy Martin | WLPC Prague 2025",
+   "url": "https://www.youtube.com/watch?v=o-ZqKY6NqRU",
+   "kind": "video",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "Wireless LAN Professionals",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:spUNpyF58BY",
@@ -2443,7 +2756,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:zOziioXnn-k",
+   "title": "OFDM Tutorial Series: OFDM Fundamentals",
+   "url": "https://www.youtube.com/watch?v=zOziioXnn-k",
+   "kind": "video",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "Silicon DSP Corporation · 53 min",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:wJg4ok05vkY",
@@ -2463,7 +2802,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.001708
   },
   {
    "key": "arxiv:2610.41997",
@@ -2483,7 +2825,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.861637
   },
   {
    "key": "arxiv:2610.41580",
@@ -2503,7 +2848,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.852004
   },
   {
    "key": "arxiv:2610.41415",
@@ -2523,7 +2871,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 13
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.846967
   },
   {
    "key": "arxiv:2610.40107",
@@ -2543,7 +2894,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.815639
   },
   {
    "key": "arxiv:2610.39110",
@@ -2563,7 +2917,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.79361
   },
   {
    "key": "arxiv:2610.38918",
@@ -2583,7 +2940,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.787569
   },
   {
    "key": "arxiv:2610.38484",
@@ -2603,7 +2963,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.768
   },
   {
    "key": "arxiv:2610.38074",
@@ -2623,7 +2986,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.753534
   },
   {
    "key": "arxiv:2610.37928",
@@ -2643,7 +3009,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.748178
   },
   {
    "key": "arxiv:2610.37391",
@@ -2663,7 +3032,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.740454
   },
   {
    "key": "arxiv:2610.37079",
@@ -2683,7 +3055,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.735032
   },
   {
    "key": "arxiv:2610.36914",
@@ -2703,7 +3078,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.732042
   },
   {
    "key": "arxiv:2610.36787",
@@ -2723,7 +3101,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.7293
   },
   {
    "key": "arxiv:2610.36622",
@@ -2743,7 +3124,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 11
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.724145
   },
   {
    "key": "arxiv:2609.33227",
@@ -2763,7 +3147,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.162471
   },
   {
    "key": "hn:43323071",
@@ -2783,7 +3170,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 61,
+   "rank": 1.444891
   },
   {
    "key": "hn:30242990",
@@ -2803,7 +3193,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 4,
+   "rank": 1.172125
   },
   {
    "key": "hn:46544981",
@@ -2823,7 +3216,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 158,
+   "rank": 0.5
   },
   {
    "key": "url:f6e85c12425c6387",
@@ -2843,67 +3239,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:A1n5Hhwtz78",
-   "title": "What is Beamforming? (\"the best explanation I've ever heard\")",
-   "url": "https://www.youtube.com/watch?v=A1n5Hhwtz78",
-   "kind": "video",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "Iain Explains Signals",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:iMIqEpzxN9Y",
-   "title": "How are Beamforming and Precoding Related?",
-   "url": "https://www.youtube.com/watch?v=iMIqEpzxN9Y",
-   "kind": "video",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "Iain Explains Signals",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:VOGjHxlisyo",
-   "title": "An introduction to Beamforming",
-   "url": "https://www.youtube.com/watch?v=VOGjHxlisyo",
-   "kind": "video",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "MATLAB",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 1e-06
   },
   {
    "key": "yt:8P9Q3Ow4qjY",
@@ -2923,16 +3262,19 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
-   "key": "yt:xGkyZw98Tug",
-   "title": "Basics of Antennas and Beamforming",
-   "url": "https://www.youtube.com/watch?v=xGkyZw98Tug",
+   "key": "yt:A1n5Hhwtz78",
+   "title": "What is Beamforming? (\"the best explanation I've ever heard\")",
+   "url": "https://www.youtube.com/watch?v=A1n5Hhwtz78",
    "kind": "video",
    "topic": "beamforming",
    "topic_label": "Beamforming",
-   "site": "Wireless Future",
+   "site": "Iain Explains Signals",
    "origin": "seed",
    "published_at": null,
    "first_seen_at": "2026-11-02T15:49:09Z",
@@ -2943,7 +3285,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:VOGjHxlisyo",
+   "title": "An introduction to Beamforming",
+   "url": "https://www.youtube.com/watch?v=VOGjHxlisyo",
+   "kind": "video",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "MATLAB",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:h6MfM8EFkGg",
@@ -2963,7 +3331,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:iMIqEpzxN9Y",
+   "title": "How are Beamforming and Precoding Related?",
+   "url": "https://www.youtube.com/watch?v=iMIqEpzxN9Y",
+   "kind": "video",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "Iain Explains Signals",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:qs2QcycggWU",
@@ -2983,18 +3377,21 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
-   "key": "yt:zdJ9Tbm8ALg",
-   "title": "QuadRF, a modular 4x4 MIMO beamforming tile built with an open antenna arch",
-   "url": "https://www.youtube.com/watch?v=zdJ9Tbm8ALg",
+   "key": "yt:xGkyZw98Tug",
+   "title": "Basics of Antennas and Beamforming",
+   "url": "https://www.youtube.com/watch?v=xGkyZw98Tug",
    "kind": "video",
    "topic": "beamforming",
    "topic_label": "Beamforming",
-   "site": "via HN",
+   "site": "Wireless Future",
    "origin": "seed",
-   "published_at": "2026-06",
+   "published_at": null,
    "first_seen_at": "2026-11-02T15:49:09Z",
    "first_seen_pt": "Nov 2, 2026",
    "is_new": false,
@@ -3003,27 +3400,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:5bqsyF1zhR8",
-   "title": "Exploring RF Beamforming: A Practical Hardware Approach",
-   "url": "https://www.youtube.com/watch?v=5bqsyF1zhR8",
-   "kind": "video",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "via HN",
-   "origin": "seed",
-   "published_at": "2025-02",
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:fHeqhzOfcWs",
@@ -3043,7 +3423,56 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.006833
+  },
+  {
+   "key": "yt:zdJ9Tbm8ALg",
+   "title": "QuadRF, a modular 4x4 MIMO beamforming tile built with an open antenna arch",
+   "url": "https://www.youtube.com/watch?v=zdJ9Tbm8ALg",
+   "kind": "video",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "via HN",
+   "origin": "seed",
+   "published_at": "2026-06",
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.000472
+  },
+  {
+   "key": "yt:5bqsyF1zhR8",
+   "title": "Exploring RF Beamforming: A Practical Hardware Approach",
+   "url": "https://www.youtube.com/watch?v=5bqsyF1zhR8",
+   "kind": "video",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "via HN",
+   "origin": "seed",
+   "published_at": "2025-02",
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.0
   },
   {
    "key": "arxiv:2610.41612",
@@ -3063,7 +3492,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.85297
   },
   {
    "key": "arxiv:2610.41579",
@@ -3083,7 +3515,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.851989
   },
   {
    "key": "arxiv:2610.41248",
@@ -3103,7 +3538,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 13
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.840722
   },
   {
    "key": "arxiv:2610.40512",
@@ -3123,7 +3561,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.821192
   },
   {
    "key": "arxiv:2610.39533",
@@ -3143,7 +3584,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.804621
   },
   {
    "key": "arxiv:2610.39397",
@@ -3163,7 +3607,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.801297
   },
   {
    "key": "arxiv:2610.39219",
@@ -3183,7 +3630,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 13
+   "score": 13,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.796556
   },
   {
    "key": "arxiv:2610.39082",
@@ -3203,107 +3653,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 7
-  },
-  {
-   "key": "arxiv:2610.38756",
-   "title": "Channel State Information-Free Angle Spoofing for Differential Localization Privacy",
-   "url": "https://arxiv.org/abs/2610.38756",
-   "kind": "paper",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-28T19:36:30Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 11
-  },
-  {
-   "key": "arxiv:2610.38483",
-   "title": "Movable Beyond-Diagonal RIS for ISAC: Optimal Placement and Pareto Boundary",
-   "url": "https://arxiv.org/abs/2610.38483",
-   "kind": "paper",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-28T08:56:40Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 11
-  },
-  {
-   "key": "arxiv:2610.38213",
-   "title": "Two-Layer Microwave Linear Analog Computer (MiLAC)-Aided Multi-User MIMO Networks",
-   "url": "https://arxiv.org/abs/2610.38213",
-   "kind": "paper",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-28T03:08:36Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 13
-  },
-  {
-   "key": "arxiv:2610.37794",
-   "title": "The Interference-Conjugate Transform: The Tightest Interference-Linear Surrogate for Power Control, Scheduling and Beamforming in Wireless Networks",
-   "url": "https://arxiv.org/abs/2610.37794",
-   "kind": "paper",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "arXiv cs.IT",
-   "origin": "check",
-   "published_at": "2026-10-27T18:12:04Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 7
-  },
-  {
-   "key": "arxiv:2610.35813",
-   "title": "World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas",
-   "url": "https://arxiv.org/abs/2610.35813",
-   "kind": "paper",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "arXiv cs.IT",
-   "origin": "check",
-   "published_at": "2026-10-26T17:42:58Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 7
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.792852
   },
   {
    "key": "arxiv:2610.39827",
@@ -3324,7 +3677,79 @@
     "arxiv",
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.792217
+  },
+  {
+   "key": "arxiv:2610.38756",
+   "title": "Channel State Information-Free Angle Spoofing for Differential Localization Privacy",
+   "url": "https://arxiv.org/abs/2610.38756",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-28T19:36:30Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.785073
+  },
+  {
+   "key": "arxiv:2610.38483",
+   "title": "Movable Beyond-Diagonal RIS for ISAC: Optimal Placement and Pareto Boundary",
+   "url": "https://arxiv.org/abs/2610.38483",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-28T08:56:40Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.76799
+  },
+  {
+   "key": "arxiv:2610.38213",
+   "title": "Two-Layer Microwave Linear Analog Computer (MiLAC)-Aided Multi-User MIMO Networks",
+   "url": "https://arxiv.org/abs/2610.38213",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-28T03:08:36Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 13,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.758854
   },
   {
    "key": "arxiv:2610.38794",
@@ -3345,7 +3770,56 @@
     "arxiv",
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.753949
+  },
+  {
+   "key": "arxiv:2610.37794",
+   "title": "The Interference-Conjugate Transform: The Tightest Interference-Linear Surrogate for Power Control, Scheduling and Beamforming in Wireless Networks",
+   "url": "https://arxiv.org/abs/2610.37794",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-10-27T18:12:04Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.744984
+  },
+  {
+   "key": "arxiv:2610.35813",
+   "title": "World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas",
+   "url": "https://arxiv.org/abs/2610.35813",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-10-26T17:42:58Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.708289
   },
   {
    "key": "hn:34624795",
@@ -3365,27 +3839,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "hn:38458233",
-   "title": "Hybrid beamforming receiver dynamic range theory to practice",
-   "url": "https://news.ycombinator.com/item?id=38458233",
-   "kind": "page",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "HN · Analog Devices",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": "https://news.ycombinator.com/item?id=38458233",
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 48,
+   "rank": 1.419397
   },
   {
    "key": "hn:28054017",
@@ -3405,7 +3862,33 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 11,
+   "rank": 1.266973
+  },
+  {
+   "key": "hn:38458233",
+   "title": "Hybrid beamforming receiver dynamic range theory to practice",
+   "url": "https://news.ycombinator.com/item?id=38458233",
+   "kind": "page",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "HN · Analog Devices",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": "https://news.ycombinator.com/item?id=38458233",
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": 6,
+   "rank": 1.208578
   },
   {
    "key": "url:b6c8018b9e92728a",
@@ -3425,87 +3908,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:am3Zs8QpLLY",
-   "title": "Fundamentals of Massive MIMO",
-   "url": "https://www.youtube.com/watch?v=am3Zs8QpLLY",
-   "kind": "video",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "Wireless Future · 2.5 h",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:NFfxUOCICFA",
-   "title": "Advanced Signal Processing for Massive MIMO",
-   "url": "https://www.youtube.com/watch?v=NFfxUOCICFA",
-   "kind": "video",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "Wireless Future · 3 h",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:L985zYsIuwc",
-   "title": "Cracking the Pilot Contamination Nut in Massive MIMO",
-   "url": "https://www.youtube.com/watch?v=L985zYsIuwc",
-   "kind": "video",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "Wireless Future",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:ZepQAw21HfA",
-   "title": "Reinventing the Wireless Network Architecture Towards 6G: Cell-free Massive MIMO and Radio Stripes",
-   "url": "https://www.youtube.com/watch?v=ZepQAw21HfA",
-   "kind": "video",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "Wireless Future",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.009664
   },
   {
    "key": "yt:39CZyDq3vSw",
@@ -3525,47 +3931,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "yt:imLiaLQGmB8",
-   "title": "Massive MIMO and Beyond - Marzetta",
-   "url": "https://www.youtube.com/watch?v=imLiaLQGmB8",
-   "kind": "video",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "The Qualcomm Institute",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
-  },
-  {
-   "key": "yt:paB8xllH7IA",
-   "title": "Wireless Communications (Part 10 of 10): Multiuser / massive / multicell MIMO",
-   "url": "https://www.youtube.com/watch?v=paB8xllH7IA",
-   "kind": "video",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "Prof. Bruno Clerckx",
-   "origin": "seed",
-   "published_at": null,
-   "first_seen_at": "2026-11-02T15:49:09Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "seed"
-   ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:Cm3xQTWtBzs",
@@ -3585,7 +3954,56 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:L985zYsIuwc",
+   "title": "Cracking the Pilot Contamination Nut in Massive MIMO",
+   "url": "https://www.youtube.com/watch?v=L985zYsIuwc",
+   "kind": "video",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "Wireless Future",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:NFfxUOCICFA",
+   "title": "Advanced Signal Processing for Massive MIMO",
+   "url": "https://www.youtube.com/watch?v=NFfxUOCICFA",
+   "kind": "video",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "Wireless Future · 3 h",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:RLlx7wjNbWs",
@@ -3605,7 +4023,102 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:ZepQAw21HfA",
+   "title": "Reinventing the Wireless Network Architecture Towards 6G: Cell-free Massive MIMO and Radio Stripes",
+   "url": "https://www.youtube.com/watch?v=ZepQAw21HfA",
+   "kind": "video",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "Wireless Future",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:am3Zs8QpLLY",
+   "title": "Fundamentals of Massive MIMO",
+   "url": "https://www.youtube.com/watch?v=am3Zs8QpLLY",
+   "kind": "video",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "Wireless Future · 2.5 h",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:imLiaLQGmB8",
+   "title": "Massive MIMO and Beyond - Marzetta",
+   "url": "https://www.youtube.com/watch?v=imLiaLQGmB8",
+   "kind": "video",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "The Qualcomm Institute",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
+  },
+  {
+   "key": "yt:paB8xllH7IA",
+   "title": "Wireless Communications (Part 10 of 10): Multiuser / massive / multicell MIMO",
+   "url": "https://www.youtube.com/watch?v=paB8xllH7IA",
+   "kind": "video",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "Prof. Bruno Clerckx",
+   "origin": "seed",
+   "published_at": null,
+   "first_seen_at": "2026-11-02T15:49:09Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "seed"
+   ],
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.997759
   },
   {
    "key": "yt:K-O6wHRRICY",
@@ -3625,67 +4138,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
-  },
-  {
-   "key": "arxiv:2610.38855",
-   "title": "Semantic-Assisted Joint Channel Estimation and Symbol Detection for MU-MIMO Systems",
-   "url": "https://arxiv.org/abs/2610.38855",
-   "kind": "paper",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-28T20:35:05Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 9
-  },
-  {
-   "key": "arxiv:2610.37424",
-   "title": "Privacy-Preserving Over-the-Air Federated Learning over Cell-Free Massive MIMO System with User-Centric Clustering",
-   "url": "https://arxiv.org/abs/2610.37424",
-   "kind": "paper",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "arXiv cs.IT",
-   "origin": "check",
-   "published_at": "2026-10-27T15:37:21Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 11
-  },
-  {
-   "key": "arxiv:2610.36609",
-   "title": "Structured Wavenumber-Domain Channel Estimation for LoS XL-MIMO",
-   "url": "https://arxiv.org/abs/2610.36609",
-   "kind": "paper",
-   "topic": "massive-mimo",
-   "topic_label": "Massive MIMO",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-27T04:11:16Z",
-   "first_seen_at": "2026-11-02T15:51:29Z",
-   "first_seen_pt": "Nov 2, 2026",
-   "is_new": true,
-   "new_today": true,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 9
+   "score": null,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.057442
   },
   {
    "key": "arxiv:2610.40229",
@@ -3706,7 +4162,79 @@
     "arxiv",
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.792217
+  },
+  {
+   "key": "arxiv:2610.38855",
+   "title": "Semantic-Assisted Joint Channel Estimation and Symbol Detection for MU-MIMO Systems",
+   "url": "https://arxiv.org/abs/2610.38855",
+   "kind": "paper",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-28T20:35:05Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.786655
+  },
+  {
+   "key": "arxiv:2610.37424",
+   "title": "Privacy-Preserving Over-the-Air Federated Learning over Cell-Free Massive MIMO System with User-Centric Clustering",
+   "url": "https://arxiv.org/abs/2610.37424",
+   "kind": "paper",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-10-27T15:37:21Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.741031
+  },
+  {
+   "key": "arxiv:2610.36609",
+   "title": "Structured Wavenumber-Domain Channel Estimation for LoS XL-MIMO",
+   "url": "https://arxiv.org/abs/2610.36609",
+   "kind": "paper",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-27T04:11:16Z",
+   "first_seen_at": "2026-11-02T15:51:29Z",
+   "first_seen_pt": "Nov 2, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.723756
   },
   {
    "key": "arxiv:2610.33982",
@@ -3726,7 +4254,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.649884
   },
   {
    "key": "arxiv:2610.29883",
@@ -3746,7 +4277,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.533123
   },
   {
    "key": "arxiv:2610.17785",
@@ -3766,7 +4300,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.358765
   },
   {
    "key": "hn:24026416",
@@ -3786,7 +4323,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 35,
+   "rank": 1.385996
   },
   {
    "key": "hn:16590022",
@@ -3806,7 +4346,10 @@
    "sources": [
     "seed"
    ],
-   "score": null
+   "score": null,
+   "citation_count": null,
+   "comment_count": 1,
+   "rank": 1.072854
   },
   {
    "key": "yt:hzf8wUwJEQU",
@@ -3826,7 +4369,10 @@
    "sources": [
     "acm"
    ],
-   "score": 7
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.641706
   },
   {
    "key": "arxiv:2610.36637",
@@ -3846,7 +4392,10 @@
    "sources": [
     "arxiv"
    ],
-   "score": 9
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.724741
   }
  ]
 }
