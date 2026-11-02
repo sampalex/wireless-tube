@@ -1,0 +1,983 @@
+[
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "Demystifying the 5G NR physical layer",
+  "url": "https://www.youtube.com/watch?v=qerqp69ojQw",
+  "site": "Video · Rohde & Schwarz · 44 min",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "5G NR MIMO Explained: Transport Block to Antenna Ports in 30 Minutes",
+  "url": "https://www.youtube.com/watch?v=fLLqX31RGVs",
+  "site": "Video · Wireless & AI",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "What is 5G Technology and its Physical Layer (PHY) Specification",
+  "url": "https://www.youtube.com/watch?v=1P1wEVPaKHI",
+  "site": "Video · MATLAB",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "Webinar: Unpacking what's next in 5G Advanced Release 19",
+  "url": "https://www.youtube.com/watch?v=1EKftMB3PFo",
+  "site": "Video · Qualcomm Research · 62 min",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "Introduction to 3GPP Release 19 and 6G Planning",
+  "url": "https://www.youtube.com/watch?v=H68y7FpuwkI",
+  "site": "Video · ATIS · 58 min",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "SIGCOMM'25: Making Cellular Networks More Efficient By Roaming in Place",
+  "url": "https://www.youtube.com/watch?v=F_w6-CeOVps",
+  "site": "Video · ACM SIGCOMM",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "SIGCOMM'26: SAGE: A Real-Time AI System for Reducing Latency in NextG Cellular Networks",
+  "url": "https://www.youtube.com/watch?v=EGyVOGq_n4w",
+  "site": "Video · ACM SIGCOMM",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "3GPP Version 19 (HN discussion of the Release 19 page)",
+  "url": "https://news.ycombinator.com/item?id=49036136",
+  "site": "Page · HN · 3gpp.org",
+  "kind": "page",
+  "date": "2026-07-24"
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "Introduction to open source private LTE and 5G networks",
+  "url": "https://news.ycombinator.com/item?id=27946947",
+  "site": "Page · HN · 609 pts",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "5G Sensing for Human Pose Estimation with PRS-based CSI",
+  "url": "https://arxiv.org/abs/2610.37435",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-27"
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "Over-the-Air Successive Interference Cancellation for 5G NR and Wi-Fi Spectrum Reuse",
+  "url": "https://arxiv.org/abs/2605.27005",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-05-26"
+ },
+ {
+  "topic": "5g",
+  "topic_label": "5G",
+  "title": "Release 19",
+  "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+  "site": "Page · 3GPP",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "6G: What, why, and how?",
+  "url": "https://www.youtube.com/watch?v=70BOKA0PmdE",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "3GPP Release 20: An Update on 3GPP 6G Technology Studies",
+  "url": "https://www.youtube.com/watch?v=mT5q_9uz9rM",
+  "site": "Video · ATIS · 62 min",
+  "kind": "video",
+  "date": "2026-04-14"
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Webinar: 3GPP Release 20 - Completing the 5G Advanced evolution and preparing for 6G",
+  "url": "https://www.youtube.com/watch?v=KE9CFHA_te4",
+  "site": "Video · Qualcomm Research",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Episode 26: What are we expecting from 6G?: Waveform design and NTN perspective",
+  "url": "https://www.youtube.com/watch?v=K4SUb2YywSw",
+  "site": "Video · IEEE ComSoc",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "6G RAN with Deeply Integrated Communication, Sensing and AI",
+  "url": "https://www.youtube.com/watch?v=W-t_xVumcCY",
+  "site": "Video · IEEE ComSoc",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Introduction to Integrated Sensing and Communication (ISAC)",
+  "url": "https://www.youtube.com/watch?v=_lNV28z7wIQ",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "ATIS' Next G Alliance ISAC Data Initiative | Launch Meeting",
+  "url": "https://www.youtube.com/watch?v=JXj3l_XW5-U",
+  "site": "Video · ATIS / Next G Alliance",
+  "kind": "video",
+  "date": "2026-06-11"
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Wireless Keynote; Onward to 6G! Jeffrey Andrews",
+  "url": "https://www.youtube.com/watch?v=FgSmj3rjCsQ",
+  "site": "Video · TFI Technology Conference",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "6G AI native air interface proof of concept",
+  "url": "https://www.youtube.com/watch?v=VA95nQOVAtY",
+  "site": "Video · Nokia Bell Labs",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "AI-native Air Interface for 6G: Proof of Concept",
+  "url": "https://www.youtube.com/watch?v=9wSUqX3x6CE",
+  "site": "Video · Hexa-X-II",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Rohde & Schwarz Demonstrates FR1-FR3 Carrier Aggregation for 6G",
+  "url": "https://www.youtube.com/watch?v=Bayghex4RD0",
+  "site": "Video · Rohde & Schwarz",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Recent advances on integrated sensing and communications for 6G",
+  "url": "https://ieeetv.ieee.org/video/recent-advances-on-integrated-sensing-and-communications-for-6g",
+  "site": "Video · IEEE.tv",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Day 1 Brooklyn 6G Summit 2025 (complete stream)",
+  "url": "https://ieeetv.ieee.org/video/day-1-brooklyn-6g-summit-2025-complete-stream",
+  "site": "Video · IEEE.tv",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "First 6G RAN study approved",
+  "url": "https://www.3gpp.org/news-events/3gpp-news/6g-38914",
+  "site": "Page · 3GPP news",
+  "kind": "page",
+  "date": "2026-06-14"
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Timeline for Release 21",
+  "url": "https://www.3gpp.org/news-events/3gpp-news/rel21-timeline",
+  "site": "Page · 3GPP news",
+  "kind": "page",
+  "date": "2026-06-10"
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Release 20",
+  "url": "https://www.3gpp.org/specifications-technologies/releases/release-20",
+  "site": "Page · 3GPP",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "6G Spectrum Recommendations",
+  "url": "https://nextgalliance.org/white_papers/6g-spectrum-recommendations/",
+  "site": "Report · Next G Alliance",
+  "kind": "report",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Channel Measurements and Modeling for JCAS and 7-24 GHz Communication Channels, Phase II",
+  "url": "https://nextgalliance.org/white_papers/channel-measurements-and-modeling-for-joint-integrated-communication-and-sensing-as-well-as-7-24-ghz-communication-channels-phase-ii/",
+  "site": "Report · Next G Alliance",
+  "kind": "report",
+  "date": null
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Integrated Sensing and Communication in 3GPP: Standardization, Performance Evaluation, and Experimental Validation Toward 6G",
+  "url": "https://arxiv.org/abs/2610.22995",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-16"
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "Rethinking the Foundations of Two-Sided AI Models for 6G",
+  "url": "https://arxiv.org/abs/2608.22918",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-08-24"
+ },
+ {
+  "topic": "6g",
+  "topic_label": "6G",
+  "title": "A Novel Coexistence Scheme for OFDM and OTFS Waveforms for Uplink in 6G Networks",
+  "url": "https://arxiv.org/abs/2610.16184",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-12"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Harnessing the Power of Wi-Fi 7 with MLO & Punctured Transmission | Jim Palmer | WLPC Phoenix 2025",
+  "url": "https://www.youtube.com/watch?v=f2EAPpBLass",
+  "site": "Video · Wireless LAN Professionals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "The Wonderful World of Wi Fi 7 (and 802.11be) with Phil Morgan",
+  "url": "https://www.youtube.com/watch?v=NVp84UlV0Ww",
+  "site": "Video · CWNPTV · 51 min",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Wi-Fi 7 Multi-Link Association: Frame Analysis & Deep Dive",
+  "url": "https://www.youtube.com/watch?v=37RH0UcvgUM",
+  "site": "Video · Frame Level Wi-Fi with Rasika",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Industry Session 2 (Qualcomm): 802.11be WLAN Physical Layer",
+  "url": "https://www.youtube.com/watch?v=zVSpOHXop8A",
+  "site": "Video · JTG Summer School, IIT Mandi · 62 min",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "What to Expect from Wi-Fi 8 (802.11bn)",
+  "url": "https://www.youtube.com/watch?v=8axrTAheuc4",
+  "site": "Video · Alethea Communications",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Wi-Fi 8 Updates | Dr Srikanth | WLPC Prague 2025",
+  "url": "https://www.youtube.com/watch?v=jyv_AuFiMA4",
+  "site": "Video · Wireless LAN Professionals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "OFDMA – The Secret Sauce of 802.11ax | David Coleman",
+  "url": "https://www.youtube.com/watch?v=gjdHpZWxujA",
+  "site": "Video · Wireless LAN Professionals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "First Wi-Fi 8 RF Signaling Tests Demonstrated by Rohde & Schwarz",
+  "url": "https://www.youtube.com/watch?v=5kAxzGzOpUU",
+  "site": "Video · Rohde & Schwarz",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Evolution of Wireless: Wi-Fi 7, Wi-Fi 8, and Cellular",
+  "url": "https://www.youtube.com/watch?v=Is2FoGBUI08",
+  "site": "Video · HPE",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "This ESP32 Antenna Array Can See WiFi",
+  "url": "https://www.youtube.com/watch?v=sXwDrcd1t-E",
+  "site": "Video · Jeija (via HackerTube)",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8",
+  "url": "https://news.ycombinator.com/item?id=48037760",
+  "site": "Page · HN · 414 pts",
+  "kind": "page",
+  "date": "2026-05-06"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+  "url": "https://news.ycombinator.com/item?id=50055593",
+  "site": "Page · HN · 425 pts",
+  "kind": "page",
+  "date": "2026-10-12"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
+  "url": "https://news.ycombinator.com/item?id=45784729",
+  "site": "Page · HN · 173 pts",
+  "kind": "page",
+  "date": "2025-11-01"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+  "url": "https://news.ycombinator.com/item?id=49406539",
+  "site": "Page · HN · 349 pts",
+  "kind": "page",
+  "date": "2026-08-23"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Wi-Fi 7 Overview (mrncciew)",
+  "url": "https://news.ycombinator.com/item?id=43187473",
+  "site": "Page · HN",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "A Tutorial on IEEE 802.11bn Multi-AP Coordination for Wi-Fi 8",
+  "url": "https://arxiv.org/abs/2606.13759",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-06-11"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Towards Ultra-High Reliability in Wi-Fi 8: IEEE 802.11bn Core Mechanisms",
+  "url": "https://arxiv.org/abs/2607.19931",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-07-22"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Kom8ndor: An IEEE 802.11bn-Oriented Simulator for Wi-Fi 8 and Beyond",
+  "url": "https://arxiv.org/abs/2606.25435",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-06-24"
+ },
+ {
+  "topic": "wifi",
+  "topic_label": "Wi-Fi 6/6E/7/8",
+  "title": "Wi-Fi 7 MLO behavior on Archer BE550 + S24 Ultra (real-world test)",
+  "url": "https://www.reddit.com/r/wifi/comments/1rfaxu2/wifi_7_mlo_behavior_on_archer_be550_s24_ultra/",
+  "site": "Thread · r/wifi",
+  "kind": "thread",
+  "date": "2026-02"
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "IEEE 802.11 Wi-Fi Frame Format",
+  "url": "https://www.youtube.com/watch?v=jy4kBAzJCKM",
+  "site": "Video · Neso Academy",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "Understanding the MAC Layer in WiFi: Sub-layers and WiFi Frame Elements",
+  "url": "https://www.youtube.com/watch?v=hwWh9hUwYSA",
+  "site": "Video · Canadiantechjourney",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "5G NR HARQ Processes explained",
+  "url": "https://www.youtube.com/watch?v=C6vZO9I8HfA",
+  "site": "Video · Wireless & AI",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "5G NR Downlink Channel Mapping Explained",
+  "url": "https://www.youtube.com/watch?v=7ocG9QfgiMQ",
+  "site": "Video · Wireless & AI",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
+  "url": "https://news.ycombinator.com/item?id=24273919",
+  "site": "Page · HN · 415 pts",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "libwifi: an 802.11 frame parsing and generation library written in C",
+  "url": "https://news.ycombinator.com/item?id=45941025",
+  "site": "Page · HN · 151 pts",
+  "kind": "page",
+  "date": "2025-11-15"
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "BladeRF-wiphy: Open-source, software defined radio modem",
+  "url": "https://news.ycombinator.com/item?id=25814237",
+  "site": "Page · HN · 292 pts",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "802.11 with Multiple Antennas for Dummies (2009) [pdf]",
+  "url": "https://news.ycombinator.com/item?id=17290302",
+  "site": "Page · HN",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "Has The Physical Layer Matured?",
+  "url": "https://arxiv.org/abs/2609.28852",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-09-23"
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "Sample-and-Score: Surrogate-Guided Coordinated Spatial Reuse in IEEE 802.11 Networks",
+  "url": "https://arxiv.org/abs/2610.36868",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-27"
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "Physical-Layer Aspects of Repeater-Assisted MIMO",
+  "url": "https://arxiv.org/abs/2609.29846",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-09-24"
+ },
+ {
+  "topic": "macphy",
+  "topic_label": "MAC/PHY protocols",
+  "title": "GPU-Resident CUDA Acceleration for OCUDU 5G PHY and O-RAN Fronthaul",
+  "url": "https://arxiv.org/abs/2608.04338",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-08-05"
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "OFDM Waveforms",
+  "url": "https://www.youtube.com/watch?v=F6B4Kyj2rLw",
+  "site": "Video · Iain Explains Signals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "What is OFDM? and Why is it Used?",
+  "url": "https://www.youtube.com/watch?v=-xdcndtzrFc",
+  "site": "Video · Iain Explains Signals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "OFDM Tutorial Series: OFDM Fundamentals",
+  "url": "https://www.youtube.com/watch?v=zOziioXnn-k",
+  "site": "Video · Silicon DSP Corporation · 53 min",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "Physics and Signal Processing | Troy Martin | WLPC Prague 2025",
+  "url": "https://www.youtube.com/watch?v=o-ZqKY6NqRU",
+  "site": "Video · Wireless LAN Professionals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "Signal Processing for Wi-Fi",
+  "url": "https://www.youtube.com/watch?v=V9GwqFoN2WI",
+  "site": "Video · IEEE Signal Processing Society",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "Introduction to Wireless Channel Fading",
+  "url": "https://www.youtube.com/watch?v=wJg4ok05vkY",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": "2026-06-27"
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "The Most Underrated Algorithm (FFT)",
+  "url": "https://www.youtube.com/watch?v=nmgFG7PUHfo",
+  "site": "Video · Veritasium (via HackerTube)",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "But what is the Fourier Transform? A visual introduction.",
+  "url": "https://www.youtube.com/watch?v=spUNpyF58BY",
+  "site": "Video · 3Blue1Brown (via HackerTube)",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "The unreasonable effectiveness of the Fourier transform (OFDM talk)",
+  "url": "https://news.ycombinator.com/item?id=46544981",
+  "site": "Page · HN · 309 pts",
+  "kind": "page",
+  "date": "2026-01-08"
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "Software-Defined Radio for Engineers (2018) [pdf]",
+  "url": "https://news.ycombinator.com/item?id=43323071",
+  "site": "Page · HN · 283 pts",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "Digital Signal Processing in Modern Communication Systems",
+  "url": "https://news.ycombinator.com/item?id=30242990",
+  "site": "Page · HN",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "OFDM Channel Equalization Techniques",
+  "url": "https://www.reddit.com/r/DSP/comments/1re5ro9/ofdm_channel_equalization_techniques/",
+  "site": "Thread · r/DSP",
+  "kind": "thread",
+  "date": "2026-02"
+ },
+ {
+  "topic": "sp",
+  "topic_label": "Signal processing",
+  "title": "Index Modulation Aided Phase-Rotated AFDM for Efficient ISAC",
+  "url": "https://arxiv.org/abs/2609.33227",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-09-27"
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "What is Beamforming? (\"the best explanation I've ever heard\")",
+  "url": "https://www.youtube.com/watch?v=A1n5Hhwtz78",
+  "site": "Video · Iain Explains Signals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "How are Beamforming and Precoding Related?",
+  "url": "https://www.youtube.com/watch?v=iMIqEpzxN9Y",
+  "site": "Video · Iain Explains Signals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "An introduction to Beamforming",
+  "url": "https://www.youtube.com/watch?v=VOGjHxlisyo",
+  "site": "Video · MATLAB",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Why multichannel beamforming is useful for wireless communication",
+  "url": "https://www.youtube.com/watch?v=8P9Q3Ow4qjY",
+  "site": "Video · MATLAB",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Basics of Antennas and Beamforming",
+  "url": "https://www.youtube.com/watch?v=xGkyZw98Tug",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Experimental Validation of Near-Field Beamfocusing using a Reconfigurable Surface",
+  "url": "https://www.youtube.com/watch?v=fHeqhzOfcWs",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": "2026-07-25"
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "TSP #183 - Starlink Dish Phased Array Design, Architecture & RF In-depth Analysis",
+  "url": "https://www.youtube.com/watch?v=h6MfM8EFkGg",
+  "site": "Video · The Signal Path (via HackerTube)",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "How does Starlink Satellite Internet Work?",
+  "url": "https://www.youtube.com/watch?v=qs2QcycggWU",
+  "site": "Video · Branch Education (via HackerTube)",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "QuadRF, a modular 4x4 MIMO beamforming tile built with an open antenna arch",
+  "url": "https://www.youtube.com/watch?v=zdJ9Tbm8ALg",
+  "site": "Video · via HN",
+  "kind": "video",
+  "date": "2026-06"
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Exploring RF Beamforming: A Practical Hardware Approach",
+  "url": "https://www.youtube.com/watch?v=5bqsyF1zhR8",
+  "site": "Video · via HN",
+  "kind": "video",
+  "date": "2025-02"
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "WiFi: \"beamforming\" only begins to describe it (2014)",
+  "url": "https://news.ycombinator.com/item?id=34624795",
+  "site": "Page · HN · 196 pts",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Hybrid beamforming receiver dynamic range theory to practice",
+  "url": "https://news.ycombinator.com/item?id=38458233",
+  "site": "Page · HN · Analog Devices",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Sparse Array Beamforming with a Phase Coherent 21-Channel RTL-SDR Array",
+  "url": "https://news.ycombinator.com/item?id=28054017",
+  "site": "Page · HN",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Deep Reinforcement Learning for Blind Passive Beamforming in RIS-Assisted MIMO Systems",
+  "url": "https://arxiv.org/abs/2610.39827",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-29"
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Joint Antenna Position and Beamforming Optimization for Movable Antenna Enabled Near-Field ISAC Imaging",
+  "url": "https://arxiv.org/abs/2610.38794",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-28"
+ },
+ {
+  "topic": "beamforming",
+  "topic_label": "Beamforming",
+  "title": "Looking for advice on RTL implementation of an adaptive digital beamformer",
+  "url": "https://www.reddit.com/r/DSP/comments/1vh0tjd/looking_for_advice_on_rtl_implementation_of_an/",
+  "site": "Thread · r/DSP",
+  "kind": "thread",
+  "date": "2026-08"
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Fundamentals of Massive MIMO",
+  "url": "https://www.youtube.com/watch?v=am3Zs8QpLLY",
+  "site": "Video · Wireless Future · 2.5 h",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Advanced Signal Processing for Massive MIMO",
+  "url": "https://www.youtube.com/watch?v=NFfxUOCICFA",
+  "site": "Video · Wireless Future · 3 h",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Cracking the Pilot Contamination Nut in Massive MIMO",
+  "url": "https://www.youtube.com/watch?v=L985zYsIuwc",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Reinventing the Wireless Network Architecture Towards 6G: Cell-free Massive MIMO and Radio Stripes",
+  "url": "https://www.youtube.com/watch?v=ZepQAw21HfA",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "6G Gigantic MIMO: From Antenna Abundance to Antenna Intelligence",
+  "url": "https://www.youtube.com/watch?v=K-O6wHRRICY",
+  "site": "Video · Wireless Future",
+  "kind": "video",
+  "date": "2026-09-06"
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "What is Massive MIMO?",
+  "url": "https://www.youtube.com/watch?v=39CZyDq3vSw",
+  "site": "Video · Iain Explains Signals",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Massive MIMO and Beyond - Marzetta",
+  "url": "https://www.youtube.com/watch?v=imLiaLQGmB8",
+  "site": "Video · The Qualcomm Institute",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Wireless Communications (Part 10 of 10): Multiuser / massive / multicell MIMO",
+  "url": "https://www.youtube.com/watch?v=paB8xllH7IA",
+  "site": "Video · Prof. Bruno Clerckx",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Lecture 11 part 1: 5G communication - massive MIMO and mmWave",
+  "url": "https://www.youtube.com/watch?v=Cm3xQTWtBzs",
+  "site": "Video · Henk Wymeersch",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "6G Talks | Why One-Bit ADCs are the Secret to Energy-Efficient Massive MIMO",
+  "url": "https://www.youtube.com/watch?v=RLlx7wjNbWs",
+  "site": "Video · 6G Flagship",
+  "kind": "video",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "World's First Fully Programmable and Open-Source Massive-MIMO Platform (RENEW)",
+  "url": "https://news.ycombinator.com/item?id=24026416",
+  "site": "Page · HN",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Massive MIMO Has Unlimited Capacity",
+  "url": "https://news.ycombinator.com/item?id=16590022",
+  "site": "Page · HN · arXiv 1705.00538",
+  "kind": "page",
+  "date": null
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Pilot Decontamination via Data-aided Channel Tracking in Cell-free Massive MIMO",
+  "url": "https://arxiv.org/abs/2610.29883",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-21"
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Unifying Performance and Equity via Percentile Optimization and Cell-Free Massive MIMO",
+  "url": "https://arxiv.org/abs/2610.33982",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-25"
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Adversarial Pilot Injection Against AI-Based CSI Feedback in FDD Massive MIMO Systems",
+  "url": "https://arxiv.org/abs/2610.40229",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-29"
+ },
+ {
+  "topic": "massive-mimo",
+  "topic_label": "Massive MIMO",
+  "title": "Learned Score-Based Turbo Message Passing for Channel Recovery From Spatially Compressed Measurements",
+  "url": "https://arxiv.org/abs/2610.17785",
+  "site": "Paper · arXiv",
+  "kind": "paper",
+  "date": "2026-10-13"
+ }
+]

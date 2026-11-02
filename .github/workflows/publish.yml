@@ -1,0 +1,95 @@
+name: Check and publish
+
+on:
+  schedule:
+    # 13:00 UTC daily (5:00 AM Pacific Time).
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+# contents: write lets the daily job commit wireless_tube.db and site/.
+# pages + id-token are required by actions/deploy-pages.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Serialize publishes so a checker commit cannot race a deploy.
+concurrency:
+  group: wireless-tube-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Run daily checker
+        # Push events only deploy. The checker is not run for github-actions[bot]
+        # commits, and GITHUB_TOKEN pushes do not start a new workflow, so a
+        # successful daily commit cannot loop.
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        id: daily
+        env:
+          # Optional. Empty when the secret is absent; youtube_api is then skipped.
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          set +e
+          bash run_daily.sh
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          if [ "$code" -eq 0 ]; then
+            echo "Checker finished successfully."
+            exit 0
+          fi
+          if [ "$code" -eq 2 ]; then
+            echo "::error::All enabled sources failed (exit 2). Not committing or deploying, so the published site is left unchanged."
+            exit 2
+          fi
+          echo "::error::Daily run failed with exit ${code}. Not committing or deploying."
+          exit "$code"
+
+      - name: Commit database and site
+        if: steps.daily.outputs.code == '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- wireless_tube.db site
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: daily update of wireless tube items and site"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+        with:
+          # Best-effort enablement. GITHUB_TOKEN often cannot create the Pages
+          # site; the owner may still need Settings → Pages → Source = GitHub Actions.
+          enablement: true
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
