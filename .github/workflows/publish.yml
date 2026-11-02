@@ -64,7 +64,10 @@ jobs:
           exit "$code"
 
       - name: Commit database and site
-        if: steps.daily.outputs.code == '0'
+        # conclusion is "skipped" on push, so this does not run for a deploy-only
+        # push. A custom if replaces the default success() check; require success
+        # explicitly so an exit-2 checker failure cannot commit or publish.
+        if: ${{ steps.daily.conclusion == 'success' && steps.daily.outputs.code == '0' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

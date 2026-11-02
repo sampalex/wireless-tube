@@ -62,7 +62,7 @@ GitHub Actions (`.github/workflows/publish.yml`) deploys `site/` to GitHub Pages
 - Every day at 13:00 UTC, and on manual `workflow_dispatch`, the workflow runs `bash run_daily.sh`. If the database or `site/` changed, it commits them as `github-actions[bot]` and deploys. That bot push does not start another checker run.
 - Exit code 2 means every enabled source failed. The job fails and does not commit or deploy, so the live site is left as it is.
 - `YOUTUBE_API_KEY` is an optional repository secret. When it is unset, the YouTube Data API source is skipped. Reddit stays disabled.
-- Pages source is GitHub Actions (Settings → Pages → Build and deployment → Source = GitHub Actions).
+- Pages source must be GitHub Actions. The Actions token cannot create the Pages site (`Resource not accessible by integration`). The owner sets Settings → Pages → Build and deployment → Source to GitHub Actions once, then re-runs the "Check and publish" workflow. Later pushes and the daily run deploy on their own.
 Links inside `site/` are relative (`rss.xml`, `data.json`), so they resolve under the `/wireless-tube/` subpath.
 
 ## Page refresh
