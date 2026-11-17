@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-16T22:43:29Z",
- "generated_at_pt": "Nov 16, 2026 2:43 PM PT",
+ "generated_at": "2026-11-17T21:29:40Z",
+ "generated_at_pt": "Nov 17, 2026 1:29 PM PT",
  "last_run": {
-  "run_id": 17,
-  "started_at_pt": "Nov 16, 2026 2:42 PM PT",
+  "run_id": 18,
+  "started_at_pt": "Nov 17, 2026 1:28 PM PT",
   "stats": {
    "hn": {
     "status": "ok",
-    "fetched": 78,
+    "fetched": 76,
     "old": 0,
-    "dropped": 77,
+    "dropped": 75,
     "borderline": 1,
     "passed": 0,
     "duplicates": 0,
@@ -19,29 +19,29 @@
    },
    "arxiv": {
     "status": "ok",
-    "fetched": 54,
+    "fetched": 66,
     "old": 0,
-    "dropped": 5,
+    "dropped": 4,
     "borderline": 0,
-    "passed": 49,
-    "duplicates": 36,
-    "new": 13,
+    "passed": 62,
+    "duplicates": 40,
+    "new": 22,
     "baseline": 0,
     "errors": [],
-    "dup_by_id": 36
+    "dup_by_id": 40
    },
    "youtube": {
     "status": "ok",
     "fetched": 11,
     "old": 0,
-    "dropped": 7,
+    "dropped": 6,
     "borderline": 0,
-    "passed": 4,
-    "duplicates": 2,
+    "passed": 5,
+    "duplicates": 3,
     "new": 2,
     "baseline": 0,
     "errors": [],
-    "dup_by_id": 2
+    "dup_by_id": 3
    },
    "youtube_api": {
     "status": "skipped (YOUTUBE_API_KEY not set)",
@@ -108,37 +108,37 @@
   }
  },
  "counts": {
-  "total": 403,
-  "videos": 102,
+  "total": 427,
+  "videos": 104,
   "seed": 109,
-  "new_7d": 117,
-  "new_today": 15
+  "new_7d": 81,
+  "new_today": 39
  },
  "badge_days": 7,
  "topics": [
   {
    "id": "5g",
    "label": "5G",
-   "count": 39,
+   "count": 40,
    "videos": 9,
-   "new": 15,
-   "new_today": 1
+   "new": 8,
+   "new_today": 2
   },
   {
    "id": "6g",
    "label": "6G",
-   "count": 119,
-   "videos": 32,
-   "new": 34,
-   "new_today": 3
+   "count": 129,
+   "videos": 34,
+   "new": 24,
+   "new_today": 13
   },
   {
    "id": "wifi",
    "label": "Wi-Fi 6/6E/7/8",
-   "count": 49,
+   "count": 51,
    "videos": 26,
-   "new": 9,
-   "new_today": 1
+   "new": 7,
+   "new_today": 3
   },
   {
    "id": "macphy",
@@ -151,34 +151,34 @@
   {
    "id": "sp",
    "label": "Signal processing",
-   "count": 62,
+   "count": 66,
    "videos": 9,
-   "new": 22,
-   "new_today": 5
+   "new": 16,
+   "new_today": 9
   },
   {
    "id": "beamforming",
    "label": "Beamforming",
-   "count": 76,
+   "count": 79,
    "videos": 11,
-   "new": 24,
-   "new_today": 4
+   "new": 12,
+   "new_today": 7
   },
   {
    "id": "massive-mimo",
    "label": "Massive MIMO",
-   "count": 31,
+   "count": 34,
    "videos": 10,
-   "new": 6,
-   "new_today": 0
+   "new": 7,
+   "new_today": 3
   },
   {
    "id": "other",
    "label": "Other wireless",
-   "count": 7,
+   "count": 8,
    "videos": 1,
    "new": 3,
-   "new_today": 0
+   "new_today": 1
   }
  ],
  "items": [
@@ -203,7 +203,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:1P1wEVPaKHI",
@@ -226,7 +226,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:EGyVOGq_n4w",
@@ -249,7 +249,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:F_w6-CeOVps",
@@ -272,7 +272,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:H68y7FpuwkI",
@@ -295,7 +295,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:fLLqX31RGVs",
@@ -318,7 +318,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:qerqp69ojQw",
@@ -341,7 +341,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:nkIfd2Op3Cw",
@@ -364,7 +364,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.317026
+   "rank": 0.302478
   },
   {
    "key": "yt:Or4QNSnTpHY",
@@ -387,7 +387,53 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.317025
+   "rank": 0.302478
+  },
+  {
+   "key": "arxiv:2611.20859",
+   "title": "Early UAV Detection Using 5G NR LEO Downlinks for Passive ISAC",
+   "url": "https://arxiv.org/abs/2611.20859",
+   "kind": "paper",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "arXiv cs.NI",
+   "origin": "check",
+   "published_at": "2026-11-16T10:31:31Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 15,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.930401
+  },
+  {
+   "key": "arxiv:2611.08949",
+   "title": "Age of Information for Power-Saving Devices with DRX Mechanism",
+   "url": "https://arxiv.org/abs/2611.08949",
+   "kind": "paper",
+   "topic": "5g",
+   "topic_label": "5G",
+   "site": "arXiv cs.NI",
+   "origin": "check",
+   "published_at": "2026-11-06T03:55:06Z",
+   "first_seen_at": "2026-11-09T22:50:53Z",
+   "first_seen_pt": "Nov 9, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": 9,
+   "comment_count": null,
+   "rank": 0.80887
   },
   {
    "key": "arxiv:2611.18155",
@@ -410,30 +456,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.845748
-  },
-  {
-   "key": "arxiv:2611.08949",
-   "title": "Age of Information for Power-Saving Devices with DRX Mechanism",
-   "url": "https://arxiv.org/abs/2611.08949",
-   "kind": "paper",
-   "topic": "5g",
-   "topic_label": "5G",
-   "site": "arXiv cs.NI",
-   "origin": "check",
-   "published_at": "2026-11-06T03:55:06Z",
-   "first_seen_at": "2026-11-09T22:50:53Z",
-   "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 11,
-   "citation_count": 9,
-   "comment_count": null,
-   "rank": 0.835774
+   "rank": 0.806939
   },
   {
    "key": "arxiv:2611.15612",
@@ -456,7 +479,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.76915
+   "rank": 0.733856
   },
   {
    "key": "arxiv:2611.15520",
@@ -479,7 +502,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.767104
+   "rank": 0.731904
   },
   {
    "key": "arxiv:2611.09184",
@@ -493,7 +516,7 @@
    "published_at": "2026-11-06T09:04:01Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -502,7 +525,7 @@
    "score": 13,
    "citation_count": 3,
    "comment_count": null,
-   "rank": 0.742764
+   "rank": 0.715573
   },
   {
    "key": "arxiv:2611.14757",
@@ -525,7 +548,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.741197
+   "rank": 0.707187
   },
   {
    "key": "arxiv:2611.13516",
@@ -548,7 +571,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.71441
+   "rank": 0.681628
   },
   {
    "key": "arxiv:2611.13490",
@@ -571,7 +594,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.713462
+   "rank": 0.680724
   },
   {
    "key": "arxiv:2611.08970",
@@ -585,7 +608,7 @@
    "published_at": "2026-11-06T04:30:17Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -594,7 +617,7 @@
    "score": 9,
    "citation_count": 2,
    "comment_count": null,
-   "rank": 0.706046
+   "rank": 0.679109
   },
   {
    "key": "arxiv:2611.13238",
@@ -617,7 +640,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.704775
+   "rank": 0.672436
   },
   {
    "key": "arxiv:2611.11372",
@@ -631,7 +654,7 @@
    "published_at": "2026-11-08T13:30:20Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -640,7 +663,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.660272
+   "rank": 0.629975
   },
   {
    "key": "arxiv:2611.09735",
@@ -654,7 +677,7 @@
    "published_at": "2026-11-06T17:10:39Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -663,7 +686,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.602572
+   "rank": 0.574922
   },
   {
    "key": "arxiv:2611.09544",
@@ -677,7 +700,7 @@
    "published_at": "2026-11-06T14:53:30Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -686,7 +709,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.599737
+   "rank": 0.572217
   },
   {
    "key": "arxiv:2611.09019",
@@ -700,7 +723,7 @@
    "published_at": "2026-11-06T05:49:16Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -709,7 +732,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.588619
+   "rank": 0.561609
   },
   {
    "key": "arxiv:2611.08707",
@@ -723,7 +746,7 @@
    "published_at": "2026-11-05T21:03:07Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -732,7 +755,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.578066
+   "rank": 0.551541
   },
   {
    "key": "arxiv:2611.08400",
@@ -755,7 +778,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.574665
+   "rank": 0.548295
   },
   {
    "key": "arxiv:2611.07685",
@@ -778,7 +801,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.564109
+   "rank": 0.538224
   },
   {
    "key": "arxiv:2611.07068",
@@ -801,7 +824,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.548295
+   "rank": 0.523136
   },
   {
    "key": "arxiv:2611.06236",
@@ -824,7 +847,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.537425
+   "rank": 0.512764
   },
   {
    "key": "arxiv:2611.06225",
@@ -847,7 +870,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.537276
+   "rank": 0.512622
   },
   {
    "key": "arxiv:2611.02038",
@@ -870,7 +893,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.469827
+   "rank": 0.448268
   },
   {
    "key": "arxiv:2611.00869",
@@ -893,7 +916,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.443128
+   "rank": 0.422794
   },
   {
    "key": "arxiv:2611.00697",
@@ -916,7 +939,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.438219
+   "rank": 0.418111
   },
   {
    "key": "arxiv:2611.00625",
@@ -939,7 +962,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.436429
+   "rank": 0.416403
   },
   {
    "key": "arxiv:2610.36602",
@@ -962,7 +985,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.357476
+   "rank": 0.341073
   },
   {
    "key": "arxiv:2610.37435",
@@ -986,7 +1009,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.354485
+   "rank": 0.338219
   },
   {
    "key": "arxiv:2605.27005",
@@ -1007,9 +1030,9 @@
     "seed"
    ],
    "score": null,
-   "citation_count": 0,
+   "citation_count": null,
    "comment_count": null,
-   "rank": 0.000173
+   "rank": 0.000165
   },
   {
    "key": "hn:27946947",
@@ -1032,7 +1055,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 117,
-   "rank": 0.992928
+   "rank": 0.970309
   },
   {
    "key": "url:998e53dd2f62b6e7",
@@ -1055,7 +1078,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492939
+   "rank": 0.47032
   },
   {
    "key": "hn:49036136",
@@ -1078,7 +1101,53 @@
    "score": null,
    "citation_count": null,
    "comment_count": 11,
-   "rank": 0.272427
+   "rank": 0.272279
+  },
+  {
+   "key": "yt:Dmi5IJ_nVyk",
+   "title": "Light, robots and AI at Lumo Art & Tech | 6G Flagship, Tarkastamo 19 November",
+   "url": "https://www.youtube.com/watch?v=Dmi5IJ_nVyk",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "YouTube · 6G Flagship",
+   "origin": "check",
+   "published_at": "2026-11-17T09:05:29+00:00",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.974738
+  },
+  {
+   "key": "yt:HlU3etu5Em8",
+   "title": "The future of European thought leadership on 6G and connectivity | Panel | 6G Summit 2026",
+   "url": "https://www.youtube.com/watch?v=HlU3etu5Em8",
+   "kind": "video",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "YouTube · 6G Flagship",
+   "origin": "check",
+   "published_at": "2026-11-17T04:26:25+00:00",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "youtube"
+   ],
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.96543
   },
   {
    "key": "yt:uuSU4towShE",
@@ -1101,7 +1170,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.980836
+   "rank": 0.935829
   },
   {
    "key": "yt:73BZ9TmPxpI",
@@ -1124,7 +1193,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.93073
+   "rank": 0.888023
   },
   {
    "key": "yt:I9s8VgSYUHc",
@@ -1147,7 +1216,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.88784
+   "rank": 0.847101
   },
   {
    "key": "yt:X1GxGredL-A",
@@ -1170,7 +1239,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.845592
+   "rank": 0.806791
   },
   {
    "key": "yt:CT2zagq1diw",
@@ -1193,7 +1262,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.843561
+   "rank": 0.804853
   },
   {
    "key": "yt:VJTdjSVPu00",
@@ -1216,7 +1285,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.766792
+   "rank": 0.731606
   },
   {
    "key": "yt:N94YrXSOqO0",
@@ -1230,7 +1299,7 @@
    "published_at": "2026-11-10T06:45:33+00:00",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -1239,7 +1308,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.718924
+   "rank": 0.685936
   },
   {
    "key": "yt:jH_F6PlJLhg",
@@ -1253,7 +1322,7 @@
    "published_at": "2026-11-09T13:15:31+00:00",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -1262,7 +1331,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.693432
+   "rank": 0.661613
   },
   {
    "key": "yt:aeI7gkrq5c4",
@@ -1276,7 +1345,7 @@
    "published_at": "2026-11-09T06:28:04+00:00",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -1285,7 +1354,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.683786
+   "rank": 0.652409
   },
   {
    "key": "yt:e-dxLPYZdOg",
@@ -1308,7 +1377,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.628252
+   "rank": 0.599424
   },
   {
    "key": "yt:dyh_AgpjDy8",
@@ -1331,7 +1400,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.596172
+   "rank": 0.568816
   },
   {
    "key": "yt:wm-QTUe7FTE",
@@ -1354,7 +1423,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.595468
+   "rank": 0.568144
   },
   {
    "key": "yt:JcLRf1eI4Vw",
@@ -1377,7 +1446,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.558375
+   "rank": 0.532754
   },
   {
    "key": "yt:6nV-y4U2nSo",
@@ -1400,7 +1469,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.511266
+   "rank": 0.487806
   },
   {
    "key": "yt:JRXTXmm6PAE",
@@ -1423,7 +1492,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.511263
+   "rank": 0.487803
   },
   {
    "key": "yt:As5Ti4MIxrw",
@@ -1446,7 +1515,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.511111
+   "rank": 0.487658
   },
   {
    "key": "url:6f7dea331795c2b0",
@@ -1469,7 +1538,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "yt:9wSUqX3x6CE",
@@ -1492,7 +1561,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492939
+   "rank": 0.47032
   },
   {
    "key": "url:34c12b14a9ec9614",
@@ -1515,7 +1584,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "url:3816839244218fa3",
@@ -1539,7 +1608,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:70BOKA0PmdE",
@@ -1562,7 +1631,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:Bayghex4RD0",
@@ -1585,7 +1654,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:FgSmj3rjCsQ",
@@ -1608,7 +1677,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:K4SUb2YywSw",
@@ -1631,7 +1700,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:KE9CFHA_te4",
@@ -1654,7 +1723,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:VA95nQOVAtY",
@@ -1677,7 +1746,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:W-t_xVumcCY",
@@ -1700,7 +1769,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:_lNV28z7wIQ",
@@ -1723,7 +1792,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:IP56Fy4VGCk",
@@ -1746,7 +1815,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.299323
+   "rank": 0.285588
   },
   {
    "key": "yt:w6waxD3dZoE",
@@ -1769,7 +1838,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.254894
+   "rank": 0.243198
   },
   {
    "key": "yt:JXj3l_XW5-U",
@@ -1792,7 +1861,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.000382
+   "rank": 0.000365
   },
   {
    "key": "yt:mT5q_9uz9rM",
@@ -1815,7 +1884,191 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 2.2e-05
+   "rank": 2.1e-05
+  },
+  {
+   "key": "arxiv:2611.21494",
+   "title": "Location Privacy for ISAC Systems: Rate, Sensing, and Privacy Tradeoff",
+   "url": "https://arxiv.org/abs/2611.21494",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-16T17:59:06Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.94483
+  },
+  {
+   "key": "arxiv:2611.20925",
+   "title": "Improving Radio SLAM via Information Sharing: Collaborative Performance Bounds",
+   "url": "https://arxiv.org/abs/2611.20925",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-16T11:36:06Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.93247
+  },
+  {
+   "key": "arxiv:2611.20665",
+   "title": "SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications",
+   "url": "https://arxiv.org/abs/2611.20665",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-16T07:27:58Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.924548
+  },
+  {
+   "key": "arxiv:2611.20474",
+   "title": "Wideband Terahertz Pinching-Antenna Systems (PASS): Bandwidth Limits, Ergodic Rate, and Placement Optimization",
+   "url": "https://arxiv.org/abs/2611.20474",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-16T03:38:37Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 13,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.917286
+  },
+  {
+   "key": "arxiv:2611.20439",
+   "title": "Joint Antenna Positioning and Dynamic Beam Tracking for MA-Enabled Full-Duplex Secure ISAC Systems: A Flow Matching DRL Approach",
+   "url": "https://arxiv.org/abs/2611.20439",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-16T03:08:33Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.916339
+  },
+  {
+   "key": "arxiv:2611.19309",
+   "title": "Active-Element Configuration for Energy-Efficient Secure Near-Field ISAC With Hybrid RISs",
+   "url": "https://arxiv.org/abs/2611.19309",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-14T10:11:33Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.842108
+  },
+  {
+   "key": "arxiv:2611.19231",
+   "title": "EdgeNet City: Context-Aware AI-RAN Planning toward Autonomous Urban Connectivity",
+   "url": "https://arxiv.org/abs/2611.19231",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv cs.NI",
+   "origin": "check",
+   "published_at": "2026-11-14T07:52:37Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.838095
+  },
+  {
+   "key": "arxiv:2611.19178",
+   "title": "Joint Movable Antenna Positioning and Precoding for ISAC via a Two-Timescale Model-Based GNN",
+   "url": "https://arxiv.org/abs/2611.19178",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-14T05:54:17Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.834692
   },
   {
    "key": "arxiv:2611.18196",
@@ -1838,7 +2091,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.846702
+   "rank": 0.80785
   },
   {
    "key": "arxiv:2611.17826",
@@ -1861,7 +2114,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.834521
+   "rank": 0.796228
   },
   {
    "key": "arxiv:2611.16878",
@@ -1884,7 +2137,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.806881
+   "rank": 0.769856
   },
   {
    "key": "arxiv:2611.16851",
@@ -1907,7 +2160,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.806426
+   "rank": 0.769422
   },
   {
    "key": "arxiv:2611.16624",
@@ -1930,7 +2183,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.800711
+   "rank": 0.763969
   },
   {
    "key": "arxiv:2611.11218",
@@ -1944,7 +2197,7 @@
    "published_at": "2026-11-08T08:08:46Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -1953,7 +2206,7 @@
    "score": 7,
    "citation_count": 2,
    "comment_count": null,
-   "rank": 0.772036
+   "rank": 0.742071
   },
   {
    "key": "arxiv:2611.15674",
@@ -1976,7 +2229,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.770371
+   "rank": 0.735021
   },
   {
    "key": "arxiv:2611.14696",
@@ -1999,7 +2252,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.738864
+   "rank": 0.70496
   },
   {
    "key": "arxiv:2611.14250",
@@ -2022,7 +2275,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.732762
+   "rank": 0.699138
   },
   {
    "key": "arxiv:2611.12425",
@@ -2036,7 +2289,7 @@
    "published_at": "2026-11-09T13:50:55Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2045,7 +2298,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.694277
+   "rank": 0.662419
   },
   {
    "key": "arxiv:2611.12391",
@@ -2059,7 +2312,7 @@
    "published_at": "2026-11-09T13:29:31Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2068,7 +2321,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.693766
+   "rank": 0.661932
   },
   {
    "key": "arxiv:2611.12082",
@@ -2082,7 +2335,7 @@
    "published_at": "2026-11-09T08:59:44Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2091,30 +2344,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.687361
-  },
-  {
-   "key": "arxiv:2611.11956",
-   "title": "Bistatic UAV-Based 3D SAR Imaging Using Integrated Sensing and Communications Transceivers",
-   "url": "https://arxiv.org/abs/2611.11956",
-   "kind": "paper",
-   "topic": "6g",
-   "topic_label": "6G",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-11-09T06:19:54Z",
-   "first_seen_at": "2026-11-10T20:10:45Z",
-   "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 11,
-   "citation_count": 0,
-   "comment_count": null,
-   "rank": 0.683594
+   "rank": 0.65582
   },
   {
    "key": "arxiv:2610.40306",
@@ -2137,7 +2367,30 @@
    "score": 7,
    "citation_count": 11,
    "comment_count": null,
-   "rank": 0.673555
+   "rank": 0.655001
+  },
+  {
+   "key": "arxiv:2611.11956",
+   "title": "Bistatic UAV-Based 3D SAR Imaging Using Integrated Sensing and Communications Transceivers",
+   "url": "https://arxiv.org/abs/2611.11956",
+   "kind": "paper",
+   "topic": "6g",
+   "topic_label": "6G",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-09T06:19:54Z",
+   "first_seen_at": "2026-11-10T20:10:45Z",
+   "first_seen_pt": "Nov 10, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.652226
   },
   {
    "key": "arxiv:2611.11206",
@@ -2151,7 +2404,7 @@
    "published_at": "2026-11-08T07:41:23Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2160,7 +2413,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.652398
+   "rank": 0.622462
   },
   {
    "key": "arxiv:2611.11097",
@@ -2174,7 +2427,7 @@
    "published_at": "2026-11-08T03:26:15Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2183,7 +2436,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.6467
+   "rank": 0.617025
   },
   {
    "key": "arxiv:2611.10516",
@@ -2197,7 +2450,7 @@
    "published_at": "2026-11-07T06:28:08Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2206,7 +2459,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.619322
+   "rank": 0.590904
   },
   {
    "key": "arxiv:2611.10355",
@@ -2220,7 +2473,7 @@
    "published_at": "2026-11-07T00:35:33Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2229,7 +2482,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.61186
+   "rank": 0.583784
   },
   {
    "key": "arxiv:2611.09435",
@@ -2243,7 +2496,7 @@
    "published_at": "2026-11-06T13:05:58Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2252,7 +2505,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.597524
+   "rank": 0.570105
   },
   {
    "key": "arxiv:2611.09079",
@@ -2266,7 +2519,7 @@
    "published_at": "2026-11-06T07:07:21Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2275,7 +2528,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.590201
+   "rank": 0.563119
   },
   {
    "key": "arxiv:2611.08987",
@@ -2289,7 +2542,7 @@
    "published_at": "2026-11-06T04:57:45Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2298,7 +2551,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.587577
+   "rank": 0.560615
   },
   {
    "key": "arxiv:2611.08850",
@@ -2312,7 +2565,7 @@
    "published_at": "2026-11-06T01:14:40Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2321,7 +2574,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.583088
+   "rank": 0.556332
   },
   {
    "key": "arxiv:2611.08809",
@@ -2335,7 +2588,7 @@
    "published_at": "2026-11-06T00:02:38Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2344,7 +2597,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.581645
+   "rank": 0.554956
   },
   {
    "key": "arxiv:2611.08658",
@@ -2358,7 +2611,7 @@
    "published_at": "2026-11-05T20:07:33Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -2367,7 +2620,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.576963
+   "rank": 0.550488
   },
   {
    "key": "arxiv:2611.08331",
@@ -2390,7 +2643,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.573677
+   "rank": 0.547353
   },
   {
    "key": "arxiv:2611.07803",
@@ -2413,7 +2666,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.565943
+   "rank": 0.539974
   },
   {
    "key": "arxiv:2611.07577",
@@ -2436,7 +2689,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.562118
+   "rank": 0.536324
   },
   {
    "key": "arxiv:2611.07277",
@@ -2459,7 +2712,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.554533
+   "rank": 0.529087
   },
   {
    "key": "arxiv:2611.07250",
@@ -2482,7 +2735,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.553463
+   "rank": 0.528067
   },
   {
    "key": "arxiv:2611.02157",
@@ -2505,7 +2758,7 @@
    "score": 9,
    "citation_count": 1,
    "comment_count": null,
-   "rank": 0.54807
+   "rank": 0.526367
   },
   {
    "key": "arxiv:2611.06805",
@@ -2528,7 +2781,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.545957
+   "rank": 0.520905
   },
   {
    "key": "arxiv:2611.06227",
@@ -2551,7 +2804,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.537289
+   "rank": 0.512635
   },
   {
    "key": "arxiv:2611.06164",
@@ -2574,7 +2827,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.536393
+   "rank": 0.51178
   },
   {
    "key": "arxiv:2611.06023",
@@ -2597,7 +2850,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.533798
+   "rank": 0.509304
   },
   {
    "key": "arxiv:2611.05550",
@@ -2620,7 +2873,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.522156
+   "rank": 0.498196
   },
   {
    "key": "arxiv:2611.05165",
@@ -2643,7 +2896,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.518794
+   "rank": 0.494988
   },
   {
    "key": "arxiv:2611.05052",
@@ -2666,7 +2919,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.517403
+   "rank": 0.493661
   },
   {
    "key": "arxiv:2611.04798",
@@ -2689,7 +2942,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.514488
+   "rank": 0.49088
   },
   {
    "key": "arxiv:2611.04592",
@@ -2712,7 +2965,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.511569
+   "rank": 0.488094
   },
   {
    "key": "arxiv:2611.04128",
@@ -2735,7 +2988,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.502516
+   "rank": 0.479458
   },
   {
    "key": "arxiv:2611.04125",
@@ -2758,7 +3011,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.50239
+   "rank": 0.479337
   },
   {
    "key": "arxiv:2611.03869",
@@ -2781,7 +3034,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.496853
+   "rank": 0.474054
   },
   {
    "key": "arxiv:2611.03816",
@@ -2804,7 +3057,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.496178
+   "rank": 0.47341
   },
   {
    "key": "arxiv:2611.03771",
@@ -2827,7 +3080,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.494552
+   "rank": 0.471858
   },
   {
    "key": "arxiv:2611.03054",
@@ -2850,7 +3103,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.489879
+   "rank": 0.4674
   },
   {
    "key": "arxiv:2611.02913",
@@ -2873,7 +3126,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.487786
+   "rank": 0.465403
   },
   {
    "key": "arxiv:2611.02783",
@@ -2896,7 +3149,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.486052
+   "rank": 0.463749
   },
   {
    "key": "arxiv:2611.02350",
@@ -2919,7 +3172,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.478007
+   "rank": 0.456073
   },
   {
    "key": "arxiv:2611.01521",
@@ -2942,7 +3195,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.457718
+   "rank": 0.436715
   },
   {
    "key": "arxiv:2611.01491",
@@ -2965,7 +3218,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.457242
+   "rank": 0.436261
   },
   {
    "key": "arxiv:2611.01470",
@@ -2988,7 +3241,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.456838
+   "rank": 0.435876
   },
   {
    "key": "arxiv:2611.01400",
@@ -3011,7 +3264,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.455126
+   "rank": 0.434242
   },
   {
    "key": "arxiv:2611.01382",
@@ -3034,7 +3287,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.454723
+   "rank": 0.433858
   },
   {
    "key": "arxiv:2611.01264",
@@ -3057,7 +3310,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.451304
+   "rank": 0.430595
   },
   {
    "key": "arxiv:2611.01164",
@@ -3080,7 +3333,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.44846
+   "rank": 0.427882
   },
   {
    "key": "arxiv:2611.00453",
@@ -3103,7 +3356,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.431414
+   "rank": 0.411618
   },
   {
    "key": "arxiv:2611.00439",
@@ -3126,7 +3379,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.431038
+   "rank": 0.411259
   },
   {
    "key": "arxiv:2611.00426",
@@ -3149,7 +3402,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.430621
+   "rank": 0.410861
   },
   {
    "key": "arxiv:2610.41744",
@@ -3172,7 +3425,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.423154
+   "rank": 0.403737
   },
   {
    "key": "arxiv:2610.41382",
@@ -3195,7 +3448,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.417905
+   "rank": 0.398729
   },
   {
    "key": "arxiv:2610.41380",
@@ -3218,7 +3471,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.41788
+   "rank": 0.398705
   },
   {
    "key": "arxiv:2610.41144",
@@ -3241,7 +3494,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.413018
+   "rank": 0.394066
   },
   {
    "key": "arxiv:2610.40586",
@@ -3264,7 +3517,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.406008
+   "rank": 0.387378
   },
   {
    "key": "arxiv:2610.38772",
@@ -3287,7 +3540,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.387996
+   "rank": 0.370192
   },
   {
    "key": "arxiv:2610.38395",
@@ -3310,7 +3563,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.3784
+   "rank": 0.361037
   },
   {
    "key": "arxiv:2610.37480",
@@ -3333,7 +3586,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.366471
+   "rank": 0.349655
   },
   {
    "key": "arxiv:2610.36351",
@@ -3356,7 +3609,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.353234
+   "rank": 0.337026
   },
   {
    "key": "arxiv:2610.36147",
@@ -3379,7 +3632,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.350739
+   "rank": 0.334645
   },
   {
    "key": "arxiv:2610.35649",
@@ -3402,7 +3655,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.348629
+   "rank": 0.332632
   },
   {
    "key": "arxiv:2610.16184",
@@ -3425,7 +3678,7 @@
    "score": null,
    "citation_count": 3,
    "comment_count": null,
-   "rank": 0.318871
+   "rank": 0.311131
   },
   {
    "key": "arxiv:2610.22995",
@@ -3448,7 +3701,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.205624
+   "rank": 0.196189
   },
   {
    "key": "arxiv:2608.22918",
@@ -3471,7 +3724,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.014909
+   "rank": 0.014225
   },
   {
    "key": "url:e2527d02df660db4",
@@ -3485,7 +3738,7 @@
    "published_at": null,
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -3494,7 +3747,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.739106
+   "rank": 0.705191
   },
   {
    "key": "url:c1bfdf47d26ae2d9",
@@ -3518,7 +3771,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "url:c9d1568cdfafb3c9",
@@ -3541,7 +3794,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "url:52d8317fb67a218a",
@@ -3555,7 +3808,7 @@
    "published_at": null,
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -3564,7 +3817,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.739106
+   "rank": 0.705191
   },
   {
    "key": "url:3452b454ffb39a67",
@@ -3587,7 +3840,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:568ebf5a4ee40601",
@@ -3610,7 +3863,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:6bb2982eca1109be",
@@ -3633,7 +3886,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:6bc4a5bae1ee9f9e",
@@ -3656,7 +3909,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:844f23d8b019fb81",
@@ -3679,7 +3932,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:973853d4eab86c11",
@@ -3702,7 +3955,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:b54b97f7528584be",
@@ -3725,7 +3978,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:cfc0b56ebece6057",
@@ -3748,7 +4001,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492967
+   "rank": 0.470347
   },
   {
    "key": "url:4fca3646149341f3",
@@ -3771,7 +4024,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "url:dc5def540e9b8c99",
@@ -3794,7 +4047,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.000443
+   "rank": 0.000423
   },
   {
    "key": "url:6a8ddb9df88d3128",
@@ -3817,7 +4070,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.000364
+   "rank": 0.000347
   },
   {
    "key": "yt:WELzHlLgmE0",
@@ -3831,7 +4084,7 @@
    "published_at": "2026-11-10T09:46:09+00:00",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -3840,7 +4093,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.723402
+   "rank": 0.690208
   },
   {
    "key": "yt:K7oKtlNcMO0",
@@ -3863,7 +4116,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.585611
+   "rank": 0.558739
   },
   {
    "key": "yt:YVNMld8x2C8",
@@ -3886,7 +4139,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.562481
+   "rank": 0.53667
   },
   {
    "key": "yt:37RH0UcvgUM",
@@ -3909,7 +4162,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:5kAxzGzOpUU",
@@ -3932,7 +4185,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:8axrTAheuc4",
@@ -3955,7 +4208,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:Is2FoGBUI08",
@@ -3978,7 +4231,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:NVp84UlV0Ww",
@@ -4001,7 +4254,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:f2EAPpBLass",
@@ -4024,7 +4277,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:gjdHpZWxujA",
@@ -4047,7 +4300,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:jyv_AuFiMA4",
@@ -4070,7 +4323,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:sXwDrcd1t-E",
@@ -4093,7 +4346,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:zVSpOHXop8A",
@@ -4116,7 +4369,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:CIkwoNxj9y4",
@@ -4139,7 +4392,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.477533
+   "rank": 0.455621
   },
   {
    "key": "yt:hGu7IIyuRlY",
@@ -4162,7 +4415,7 @@
    "score": 13,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302597
+   "rank": 0.288712
   },
   {
    "key": "yt:qt88EYp7ngk",
@@ -4185,7 +4438,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302597
+   "rank": 0.288712
   },
   {
    "key": "yt:dq0EEmaiXdI",
@@ -4208,7 +4461,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:8G8SGZj74zA",
@@ -4231,7 +4484,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:GHhIVQe-3dg",
@@ -4254,7 +4507,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:POuPMgHDoHQ",
@@ -4277,7 +4530,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:W1Js9GNkWKg",
@@ -4300,7 +4553,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:dJ7qp71r4No",
@@ -4323,7 +4576,7 @@
    "score": 13,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:2KAFUAwajZk",
@@ -4346,7 +4599,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:4AYUJE8fi1I",
@@ -4369,7 +4622,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:CbOElleT2hk",
@@ -4392,7 +4645,7 @@
    "score": 15,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302596
+   "rank": 0.288711
   },
   {
    "key": "yt:jTV4flu8nHM",
@@ -4415,7 +4668,53 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.302543
+   "rank": 0.28866
+  },
+  {
+   "key": "arxiv:2611.21528",
+   "title": "Post-Quantum Migration of Wi-Fi Key Establishment: A Hybrid ML-KEM Design for OWE and FILS, Validated on OWE with hostapd",
+   "url": "https://arxiv.org/abs/2611.21528",
+   "kind": "paper",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "arXiv cs.CR",
+   "origin": "check",
+   "published_at": "2026-11-16T18:18:31Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.945461
+  },
+  {
+   "key": "arxiv:2611.19584",
+   "title": "Diagnosis as Percolation on an Evidence Graph: Root-Cause Recoverability in Network Fault Diagnosis",
+   "url": "https://arxiv.org/abs/2611.19584",
+   "kind": "paper",
+   "topic": "wifi",
+   "topic_label": "Wi-Fi 6/6E/7/8",
+   "site": "arXiv cs.NI",
+   "origin": "check",
+   "published_at": "2026-11-14T19:28:46Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.858397
   },
   {
    "key": "arxiv:2611.17898",
@@ -4438,7 +4737,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.837194
+   "rank": 0.798778
   },
   {
    "key": "arxiv:2611.16737",
@@ -4461,7 +4760,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.803846
+   "rank": 0.76696
   },
   {
    "key": "arxiv:2611.16634",
@@ -4484,7 +4783,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.800925
+   "rank": 0.764174
   },
   {
    "key": "arxiv:2611.16185",
@@ -4507,7 +4806,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.786547
+   "rank": 0.750455
   },
   {
    "key": "arxiv:2611.15532",
@@ -4530,7 +4829,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.767257
+   "rank": 0.73205
   },
   {
    "key": "arxiv:2611.12231",
@@ -4544,7 +4843,7 @@
    "published_at": "2026-11-09T11:24:31Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -4553,7 +4852,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.690791
+   "rank": 0.659093
   },
   {
    "key": "arxiv:2611.12036",
@@ -4567,7 +4866,7 @@
    "published_at": "2026-11-09T08:15:13Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -4576,7 +4875,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.686309
+   "rank": 0.654817
   },
   {
    "key": "arxiv:2611.10360",
@@ -4590,7 +4889,7 @@
    "published_at": "2026-11-07T00:49:08Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -4599,7 +4898,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.612146
+   "rank": 0.584057
   },
   {
    "key": "arxiv:2611.07390",
@@ -4622,7 +4921,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.557681
+   "rank": 0.532091
   },
   {
    "key": "arxiv:2611.05970",
@@ -4645,7 +4944,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.53231
+   "rank": 0.507884
   },
   {
    "key": "arxiv:2611.02378",
@@ -4668,7 +4967,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.478844
+   "rank": 0.456871
   },
   {
    "key": "arxiv:2611.01254",
@@ -4691,7 +4990,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.450889
+   "rank": 0.4302
   },
   {
    "key": "arxiv:2610.41469",
@@ -4714,7 +5013,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.419241
+   "rank": 0.400003
   },
   {
    "key": "arxiv:2610.37007",
@@ -4737,7 +5036,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.362502
+   "rank": 0.345868
   },
   {
    "key": "arxiv:2606.13759",
@@ -4758,9 +5057,9 @@
     "seed"
    ],
    "score": null,
-   "citation_count": 5,
+   "citation_count": 7,
    "comment_count": null,
-   "rank": 0.194501
+   "rank": 0.22565
   },
   {
    "key": "arxiv:2606.25435",
@@ -4781,9 +5080,9 @@
     "seed"
    ],
    "score": null,
-   "citation_count": 1,
+   "citation_count": 2,
    "comment_count": null,
-   "rank": 0.075823
+   "rank": 0.119717
   },
   {
    "key": "arxiv:2607.19931",
@@ -4806,7 +5105,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.00291
+   "rank": 0.002776
   },
   {
    "key": "hn:43187473",
@@ -4829,7 +5128,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 46,
-   "rank": 0.910051
+   "rank": 0.887432
   },
   {
    "key": "hn:50055593",
@@ -4852,7 +5151,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 126,
-   "rank": 0.668681
+   "rank": 0.660941
   },
   {
    "key": "hn:49406539",
@@ -4875,7 +5174,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 291,
-   "rank": 0.514189
+   "rank": 0.513538
   },
   {
    "key": "hn:48037760",
@@ -4898,7 +5197,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 103,
-   "rank": 0.500064
+   "rank": 0.500061
   },
   {
    "key": "hn:45784729",
@@ -4967,7 +5266,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:C6vZO9I8HfA",
@@ -4990,7 +5289,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:hwWh9hUwYSA",
@@ -5013,7 +5312,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:jy4kBAzJCKM",
@@ -5036,7 +5335,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "arxiv:2611.17492",
@@ -5059,7 +5358,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.816546
+   "rank": 0.779078
   },
   {
    "key": "arxiv:2611.15577",
@@ -5082,7 +5381,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.768363
+   "rank": 0.733105
   },
   {
    "key": "arxiv:2611.15281",
@@ -5105,7 +5404,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.760764
+   "rank": 0.725856
   },
   {
    "key": "arxiv:2611.15054",
@@ -5128,7 +5427,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.753345
+   "rank": 0.718777
   },
   {
    "key": "arxiv:2611.07855",
@@ -5151,7 +5450,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.566812
+   "rank": 0.540803
   },
   {
    "key": "arxiv:2611.07225",
@@ -5174,7 +5473,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.552928
+   "rank": 0.527556
   },
   {
    "key": "arxiv:2611.06726",
@@ -5197,7 +5496,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.544731
+   "rank": 0.519736
   },
   {
    "key": "arxiv:2610.39290",
@@ -5220,7 +5519,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.394359
+   "rank": 0.376263
   },
   {
    "key": "arxiv:2610.36868",
@@ -5243,7 +5542,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.354485
+   "rank": 0.338219
   },
   {
    "key": "arxiv:2608.04338",
@@ -5266,7 +5565,7 @@
    "score": null,
    "citation_count": 3,
    "comment_count": null,
-   "rank": 0.15601
+   "rank": 0.155743
   },
   {
    "key": "arxiv:2609.28852",
@@ -5289,7 +5588,7 @@
    "score": null,
    "citation_count": 1,
    "comment_count": null,
-   "rank": 0.140941
+   "rank": 0.137919
   },
   {
    "key": "arxiv:2609.29846",
@@ -5312,7 +5611,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.069187
+   "rank": 0.066013
   },
   {
    "key": "hn:24273919",
@@ -5335,7 +5634,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 84,
-   "rank": 0.974242
+   "rank": 0.951624
   },
   {
    "key": "hn:25814237",
@@ -5358,7 +5657,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 55,
-   "rank": 0.929032
+   "rank": 0.906414
   },
   {
    "key": "hn:17290302",
@@ -5381,7 +5680,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 10,
-   "rank": 0.752714
+   "rank": 0.730096
   },
   {
    "key": "hn:45941025",
@@ -5418,7 +5717,7 @@
    "published_at": "2026-11-09T14:14:57+00:00",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -5427,7 +5726,7 @@
    "score": 13,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.694851
+   "rank": 0.662967
   },
   {
    "key": "yt:-xdcndtzrFc",
@@ -5450,7 +5749,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:F6B4Kyj2rLw",
@@ -5473,7 +5772,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:V9GwqFoN2WI",
@@ -5496,7 +5795,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:nmgFG7PUHfo",
@@ -5519,7 +5818,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:o-ZqKY6NqRU",
@@ -5542,7 +5841,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:spUNpyF58BY",
@@ -5565,7 +5864,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:zOziioXnn-k",
@@ -5588,7 +5887,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:wJg4ok05vkY",
@@ -5611,7 +5910,99 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.000844
+   "rank": 0.000805
+  },
+  {
+   "key": "arxiv:2611.20271",
+   "title": "ANNA: Attention-Free Neural Neighborhood Aggregation for Channel Estimation on Regenerative NTN Payloads",
+   "url": "https://arxiv.org/abs/2611.20271",
+   "kind": "paper",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-15T21:59:53Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.906665
+  },
+  {
+   "key": "arxiv:2611.20066",
+   "title": "Density-First Design of Anti-Jamming Sparse Spreading Codes for NB-IoT",
+   "url": "https://arxiv.org/abs/2611.20066",
+   "kind": "paper",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-15T15:16:58Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.894192
+  },
+  {
+   "key": "arxiv:2611.19282",
+   "title": "Sensing with OFDM Signals: How Do the Constellations Affect the Sensing Accuracy?",
+   "url": "https://arxiv.org/abs/2611.19282",
+   "kind": "paper",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-14T09:24:23Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.840744
+  },
+  {
+   "key": "arxiv:2611.19052",
+   "title": "RF-Based Macronutrient Estimation in Liquid Foods via Composition-Aware Multi-Task Learning",
+   "url": "https://arxiv.org/abs/2611.19052",
+   "kind": "paper",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "arXiv cs.NI",
+   "origin": "check",
+   "published_at": "2026-11-14T00:51:26Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.826046
   },
   {
    "key": "arxiv:2611.18450",
@@ -5634,7 +6025,7 @@
    "score": 11,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.852525
+   "rank": 0.813406
   },
   {
    "key": "arxiv:2611.18205",
@@ -5657,7 +6048,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.846917
+   "rank": 0.808055
   },
   {
    "key": "arxiv:2611.18039",
@@ -5680,7 +6071,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.841651
+   "rank": 0.803031
   },
   {
    "key": "arxiv:2611.18013",
@@ -5703,7 +6094,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.840826
+   "rank": 0.802243
   },
   {
    "key": "arxiv:2611.17723",
@@ -5726,7 +6117,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.829678
+   "rank": 0.791607
   },
   {
    "key": "arxiv:2611.16643",
@@ -5749,7 +6140,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.801221
+   "rank": 0.764456
   },
   {
    "key": "arxiv:2611.16292",
@@ -5772,7 +6163,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.790501
+   "rank": 0.754228
   },
   {
    "key": "arxiv:2611.16177",
@@ -5795,7 +6186,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.786235
+   "rank": 0.750158
   },
   {
    "key": "arxiv:2611.15045",
@@ -5818,7 +6209,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.753028
+   "rank": 0.718475
   },
   {
    "key": "arxiv:2611.14877",
@@ -5841,7 +6232,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.746639
+   "rank": 0.712379
   },
   {
    "key": "arxiv:2611.14267",
@@ -5864,7 +6255,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.733043
+   "rank": 0.699406
   },
   {
    "key": "arxiv:2611.13699",
@@ -5887,7 +6278,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.720395
+   "rank": 0.687339
   },
   {
    "key": "arxiv:2611.12457",
@@ -5901,7 +6292,7 @@
    "published_at": "2026-11-09T14:10:10Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -5910,7 +6301,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.694737
+   "rank": 0.662858
   },
   {
    "key": "arxiv:2611.12166",
@@ -5924,7 +6315,7 @@
    "published_at": "2026-11-09T10:21:45Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -5933,7 +6324,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.689302
+   "rank": 0.657672
   },
   {
    "key": "arxiv:2611.11904",
@@ -5947,7 +6338,7 @@
    "published_at": "2026-11-09T05:21:51Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -5956,7 +6347,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.682231
+   "rank": 0.650926
   },
   {
    "key": "arxiv:2611.11473",
@@ -5970,7 +6361,7 @@
    "published_at": "2026-11-08T16:12:43Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -5979,7 +6370,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.663969
+   "rank": 0.633502
   },
   {
    "key": "arxiv:2611.11275",
@@ -5993,7 +6384,7 @@
    "published_at": "2026-11-08T10:00:43Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -6002,7 +6393,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.655531
+   "rank": 0.625451
   },
   {
    "key": "arxiv:2611.09687",
@@ -6016,7 +6407,7 @@
    "published_at": "2026-11-06T16:34:43Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -6025,7 +6416,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.601828
+   "rank": 0.574212
   },
   {
    "key": "arxiv:2611.09591",
@@ -6039,7 +6430,7 @@
    "published_at": "2026-11-06T15:23:20Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -6048,7 +6439,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.600352
+   "rank": 0.572804
   },
   {
    "key": "arxiv:2611.08803",
@@ -6062,7 +6453,7 @@
    "published_at": "2026-11-05T23:55:54Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -6071,7 +6462,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.581511
+   "rank": 0.554827
   },
   {
    "key": "arxiv:2611.10052",
@@ -6085,7 +6476,7 @@
    "published_at": "2026-11-05T23:15:43Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -6094,7 +6485,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.580708
+   "rank": 0.554061
   },
   {
    "key": "arxiv:2611.08342",
@@ -6117,7 +6508,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.573797
+   "rank": 0.547467
   },
   {
    "key": "arxiv:2611.07311",
@@ -6140,7 +6531,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.555737
+   "rank": 0.530236
   },
   {
    "key": "arxiv:2611.06432",
@@ -6163,7 +6554,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.540595
+   "rank": 0.515789
   },
   {
    "key": "arxiv:2611.06271",
@@ -6186,7 +6577,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.538041
+   "rank": 0.513352
   },
   {
    "key": "arxiv:2611.06181",
@@ -6209,7 +6600,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.53663
+   "rank": 0.512006
   },
   {
    "key": "arxiv:2611.05999",
@@ -6232,7 +6623,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.533092
+   "rank": 0.50863
   },
   {
    "key": "arxiv:2611.03482",
@@ -6255,7 +6646,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.494526
+   "rank": 0.471834
   },
   {
    "key": "arxiv:2611.02343",
@@ -6278,7 +6669,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.477825
+   "rank": 0.4559
   },
   {
    "key": "arxiv:2611.01590",
@@ -6301,30 +6692,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.459041
-  },
-  {
-   "key": "arxiv:2611.01114",
-   "title": "Channel Estimation for Stacked Intelligent Metasurfaces with Mutual Coupling",
-   "url": "https://arxiv.org/abs/2611.01114",
-   "kind": "paper",
-   "topic": "sp",
-   "topic_label": "Signal processing",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-31T17:00:31Z",
-   "first_seen_at": "2026-11-03T18:10:23Z",
-   "first_seen_pt": "Nov 3, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 7,
-   "citation_count": 0,
-   "comment_count": null,
-   "rank": 0.447553
+   "rank": 0.437977
   },
   {
    "key": "arxiv:2610.37928",
@@ -6347,7 +6715,30 @@
    "score": 7,
    "citation_count": 1,
    "comment_count": null,
-   "rank": 0.444721
+   "rank": 0.427761
+  },
+  {
+   "key": "arxiv:2611.01114",
+   "title": "Channel Estimation for Stacked Intelligent Metasurfaces with Mutual Coupling",
+   "url": "https://arxiv.org/abs/2611.01114",
+   "kind": "paper",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-31T17:00:31Z",
+   "first_seen_at": "2026-11-03T18:10:23Z",
+   "first_seen_pt": "Nov 3, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.427016
   },
   {
    "key": "arxiv:2611.00910",
@@ -6370,7 +6761,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.443999
+   "rank": 0.423625
   },
   {
    "key": "arxiv:2611.00862",
@@ -6393,30 +6784,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.443047
-  },
-  {
-   "key": "arxiv:2611.00648",
-   "title": "Synergy-Aware Symbol Allocation for Distributed Semantic Communication",
-   "url": "https://arxiv.org/abs/2611.00648",
-   "kind": "paper",
-   "topic": "sp",
-   "topic_label": "Signal processing",
-   "site": "arXiv eess.SP",
-   "origin": "check",
-   "published_at": "2026-10-31T05:26:28Z",
-   "first_seen_at": "2026-11-03T18:10:23Z",
-   "first_seen_pt": "Nov 3, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 13,
-   "citation_count": 0,
-   "comment_count": null,
-   "rank": 0.437
+   "rank": 0.422717
   },
   {
    "key": "arxiv:2610.36787",
@@ -6439,7 +6807,30 @@
    "score": 9,
    "citation_count": 1,
    "comment_count": null,
-   "rank": 0.435395
+   "rank": 0.418862
+  },
+  {
+   "key": "arxiv:2611.00648",
+   "title": "Synergy-Aware Symbol Allocation for Distributed Semantic Communication",
+   "url": "https://arxiv.org/abs/2611.00648",
+   "kind": "paper",
+   "topic": "sp",
+   "topic_label": "Signal processing",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-10-31T05:26:28Z",
+   "first_seen_at": "2026-11-03T18:10:23Z",
+   "first_seen_pt": "Nov 3, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 13,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.416947
   },
   {
    "key": "arxiv:2610.41997",
@@ -6462,7 +6853,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.425678
+   "rank": 0.406146
   },
   {
    "key": "arxiv:2610.41580",
@@ -6485,7 +6876,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.420919
+   "rank": 0.401605
   },
   {
    "key": "arxiv:2610.41415",
@@ -6508,7 +6899,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.418431
+   "rank": 0.399231
   },
   {
    "key": "arxiv:2610.40107",
@@ -6531,7 +6922,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.402954
+   "rank": 0.384464
   },
   {
    "key": "arxiv:2610.39110",
@@ -6554,7 +6945,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.392071
+   "rank": 0.37408
   },
   {
    "key": "arxiv:2610.38918",
@@ -6577,7 +6968,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.389087
+   "rank": 0.371233
   },
   {
    "key": "arxiv:2610.38484",
@@ -6600,7 +6991,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.379418
+   "rank": 0.362008
   },
   {
    "key": "arxiv:2610.38074",
@@ -6623,7 +7014,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.372272
+   "rank": 0.35519
   },
   {
    "key": "arxiv:2610.37391",
@@ -6646,7 +7037,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.36581
+   "rank": 0.349024
   },
   {
    "key": "arxiv:2610.37079",
@@ -6669,7 +7060,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.363131
+   "rank": 0.346469
   },
   {
    "key": "arxiv:2610.36914",
@@ -6692,7 +7083,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.361654
+   "rank": 0.345059
   },
   {
    "key": "arxiv:2610.36622",
@@ -6715,7 +7106,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.357753
+   "rank": 0.341337
   },
   {
    "key": "arxiv:2609.33227",
@@ -6738,7 +7129,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.080266
+   "rank": 0.076583
   },
   {
    "key": "hn:43323071",
@@ -6761,7 +7152,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 61,
-   "rank": 0.940059
+   "rank": 0.917441
   },
   {
    "key": "hn:30242990",
@@ -6784,7 +7175,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 4,
-   "rank": 0.667293
+   "rank": 0.644675
   },
   {
    "key": "hn:46544981",
@@ -6853,7 +7244,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.976103
+   "rank": 0.931313
   },
   {
    "key": "yt:8P9Q3Ow4qjY",
@@ -6876,7 +7267,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:A1n5Hhwtz78",
@@ -6899,7 +7290,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:VOGjHxlisyo",
@@ -6922,7 +7313,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:h6MfM8EFkGg",
@@ -6945,7 +7336,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:iMIqEpzxN9Y",
@@ -6968,7 +7359,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:qs2QcycggWU",
@@ -6991,7 +7382,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:xGkyZw98Tug",
@@ -7014,7 +7405,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:fHeqhzOfcWs",
@@ -7037,7 +7428,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.003376
+   "rank": 0.003221
   },
   {
    "key": "yt:zdJ9Tbm8ALg",
@@ -7060,7 +7451,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.000233
+   "rank": 0.000222
   },
   {
    "key": "yt:5bqsyF1zhR8",
@@ -7086,6 +7477,75 @@
    "rank": 0.0
   },
   {
+   "key": "arxiv:2611.21561",
+   "title": "Projection-Based Partitioned MiLAC Architecture for MU-MIMO Precoding",
+   "url": "https://arxiv.org/abs/2611.21561",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-16T18:40:02Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.946161
+  },
+  {
+   "key": "arxiv:2611.20492",
+   "title": "Weighted Sum-Rate Optimization of Near-Field STAR-RIS-Aided ISAC Systems Under Hardware Impairments",
+   "url": "https://arxiv.org/abs/2611.20492",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-11-16T04:04:29Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 15,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.918102
+  },
+  {
+   "key": "arxiv:2611.19921",
+   "title": "Wideband Hybrid Beamforming via Programmable Unitary Mixer--TTD RF Networks",
+   "url": "https://arxiv.org/abs/2611.19921",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-15T10:30:24Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.885424
+  },
+  {
    "key": "arxiv:2611.18405",
    "title": "Joint Optimization of Antenna Partitioning and Distortion-Aware Precoding for Massive MIMO-OFDM with Peak Cancellation and In-Band Distortion Compensation",
    "url": "https://arxiv.org/abs/2611.18405",
@@ -7106,7 +7566,7 @@
    "score": 15,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.851534
+   "rank": 0.81246
   },
   {
    "key": "arxiv:2611.17666",
@@ -7129,7 +7589,7 @@
    "score": 9,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.826459
+   "rank": 0.788536
   },
   {
    "key": "arxiv:2611.17654",
@@ -7152,7 +7612,7 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.82601
+   "rank": 0.788107
   },
   {
    "key": "arxiv:2611.15557",
@@ -7175,7 +7635,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.767948
+   "rank": 0.732709
   },
   {
    "key": "arxiv:2611.15199",
@@ -7198,7 +7658,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.758641
+   "rank": 0.72383
   },
   {
    "key": "arxiv:2611.14882",
@@ -7221,7 +7681,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.746921
+   "rank": 0.712648
   },
   {
    "key": "arxiv:2611.14712",
@@ -7244,7 +7704,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.739281
+   "rank": 0.705358
   },
   {
    "key": "arxiv:2611.13768",
@@ -7267,7 +7727,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.722439
+   "rank": 0.689289
   },
   {
    "key": "arxiv:2611.12342",
@@ -7281,7 +7741,7 @@
    "published_at": "2026-11-09T12:58:50Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7290,7 +7750,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.693035
+   "rank": 0.661234
   },
   {
    "key": "arxiv:2611.12250",
@@ -7304,7 +7764,7 @@
    "published_at": "2026-11-09T11:37:51Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7313,7 +7773,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.691108
+   "rank": 0.659395
   },
   {
    "key": "arxiv:2611.12021",
@@ -7327,7 +7787,7 @@
    "published_at": "2026-11-09T07:59:24Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7336,7 +7796,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.685936
+   "rank": 0.654461
   },
   {
    "key": "arxiv:2611.11849",
@@ -7350,7 +7810,7 @@
    "published_at": "2026-11-09T04:11:26Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7359,7 +7819,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.680581
+   "rank": 0.649352
   },
   {
    "key": "arxiv:2611.11412",
@@ -7373,7 +7833,7 @@
    "published_at": "2026-11-08T14:27:01Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7382,7 +7842,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.661561
+   "rank": 0.631204
   },
   {
    "key": "arxiv:2611.11283",
@@ -7396,7 +7856,7 @@
    "published_at": "2026-11-08T10:10:00Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7405,7 +7865,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.65574
+   "rank": 0.625651
   },
   {
    "key": "arxiv:2611.10814",
@@ -7419,7 +7879,7 @@
    "published_at": "2026-11-07T15:48:25Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7428,7 +7888,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.631369
+   "rank": 0.602397
   },
   {
    "key": "arxiv:2611.10589",
@@ -7442,7 +7902,7 @@
    "published_at": "2026-11-07T08:55:48Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7451,7 +7911,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.622475
+   "rank": 0.593912
   },
   {
    "key": "arxiv:2611.10569",
@@ -7465,7 +7925,7 @@
    "published_at": "2026-11-07T08:19:57Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7474,7 +7934,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.621708
+   "rank": 0.59318
   },
   {
    "key": "arxiv:2611.10482",
@@ -7488,7 +7948,7 @@
    "published_at": "2026-11-07T05:07:59Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7497,7 +7957,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.617618
+   "rank": 0.589278
   },
   {
    "key": "arxiv:2611.09763",
@@ -7511,7 +7971,7 @@
    "published_at": "2026-11-06T17:26:46Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7520,7 +7980,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.602906
+   "rank": 0.57524
   },
   {
    "key": "arxiv:2611.09636",
@@ -7534,7 +7994,7 @@
    "published_at": "2026-11-06T15:51:34Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7543,7 +8003,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.600935
+   "rank": 0.573361
   },
   {
    "key": "arxiv:2611.09409",
@@ -7557,7 +8017,7 @@
    "published_at": "2026-11-06T12:42:43Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7566,7 +8026,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.597046
+   "rank": 0.56965
   },
   {
    "key": "arxiv:2611.08813",
@@ -7580,7 +8040,7 @@
    "published_at": "2026-11-06T00:09:25Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7589,7 +8049,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.581781
+   "rank": 0.555085
   },
   {
    "key": "arxiv:2611.08783",
@@ -7603,7 +8063,7 @@
    "published_at": "2026-11-05T23:12:33Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -7612,7 +8072,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.580645
+   "rank": 0.554001
   },
   {
    "key": "arxiv:2611.07823",
@@ -7635,7 +8095,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.566285
+   "rank": 0.5403
   },
   {
    "key": "arxiv:2611.07767",
@@ -7658,7 +8118,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.565148
+   "rank": 0.539215
   },
   {
    "key": "arxiv:2611.07724",
@@ -7681,7 +8141,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.56462
+   "rank": 0.538712
   },
   {
    "key": "arxiv:2611.07656",
@@ -7704,7 +8164,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.563498
+   "rank": 0.537641
   },
   {
    "key": "arxiv:2611.07548",
@@ -7727,7 +8187,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.561489
+   "rank": 0.535725
   },
   {
    "key": "arxiv:2611.06853",
@@ -7750,7 +8210,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.546873
+   "rank": 0.521779
   },
   {
    "key": "arxiv:2611.06235",
@@ -7773,7 +8233,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.537401
+   "rank": 0.512742
   },
   {
    "key": "arxiv:2611.05989",
@@ -7796,7 +8256,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.532884
+   "rank": 0.508432
   },
   {
    "key": "arxiv:2611.05796",
@@ -7819,7 +8279,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.52796
+   "rank": 0.503733
   },
   {
    "key": "arxiv:2611.04927",
@@ -7842,7 +8302,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.516037
+   "rank": 0.492358
   },
   {
    "key": "arxiv:2611.04552",
@@ -7865,7 +8325,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.510988
+   "rank": 0.487541
   },
   {
    "key": "arxiv:2611.04433",
@@ -7888,7 +8348,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.509034
+   "rank": 0.485676
   },
   {
    "key": "arxiv:2611.03398",
@@ -7911,7 +8371,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.493636
+   "rank": 0.470985
   },
   {
    "key": "arxiv:2611.03047",
@@ -7934,7 +8394,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.489812
+   "rank": 0.467337
   },
   {
    "key": "arxiv:2611.03000",
@@ -7957,7 +8417,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.489134
+   "rank": 0.466689
   },
   {
    "key": "arxiv:2611.02761",
@@ -7980,7 +8440,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.485784
+   "rank": 0.463493
   },
   {
    "key": "arxiv:2611.02662",
@@ -8003,7 +8463,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.484404
+   "rank": 0.462177
   },
   {
    "key": "arxiv:2611.02563",
@@ -8026,30 +8486,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.482778
-  },
-  {
-   "key": "arxiv:2611.02109",
-   "title": "Wideband Microwave Linear Analog Computer (MiLAC) for Frequency-Flat and Frequency-Selective Processing",
-   "url": "https://arxiv.org/abs/2611.02109",
-   "kind": "paper",
-   "topic": "beamforming",
-   "topic_label": "Beamforming",
-   "site": "arXiv cs.IT",
-   "origin": "check",
-   "published_at": "2026-11-01T18:27:23Z",
-   "first_seen_at": "2026-11-03T18:10:23Z",
-   "first_seen_pt": "Nov 3, 2026",
-   "is_new": false,
-   "new_today": false,
-   "discussion_url": null,
-   "sources": [
-    "arxiv"
-   ],
-   "score": 9,
-   "citation_count": 0,
-   "comment_count": null,
-   "rank": 0.471676
+   "rank": 0.460625
   },
   {
    "key": "arxiv:2610.39219",
@@ -8072,7 +8509,30 @@
    "score": 13,
    "citation_count": 1,
    "comment_count": null,
-   "rank": 0.468621
+   "rank": 0.450564
+  },
+  {
+   "key": "arxiv:2611.02109",
+   "title": "Wideband Microwave Linear Analog Computer (MiLAC) for Frequency-Flat and Frequency-Selective Processing",
+   "url": "https://arxiv.org/abs/2611.02109",
+   "kind": "paper",
+   "topic": "beamforming",
+   "topic_label": "Beamforming",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-11-01T18:27:23Z",
+   "first_seen_at": "2026-11-03T18:10:23Z",
+   "first_seen_pt": "Nov 3, 2026",
+   "is_new": false,
+   "new_today": false,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 9,
+   "citation_count": 0,
+   "comment_count": null,
+   "rank": 0.450032
   },
   {
    "key": "arxiv:2611.01881",
@@ -8095,7 +8555,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.466743
+   "rank": 0.445326
   },
   {
    "key": "arxiv:2611.01880",
@@ -8118,7 +8578,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.466654
+   "rank": 0.445241
   },
   {
    "key": "arxiv:2611.01650",
@@ -8141,7 +8601,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.460604
+   "rank": 0.439469
   },
   {
    "key": "arxiv:2611.00867",
@@ -8164,7 +8624,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.44312
+   "rank": 0.422787
   },
   {
    "key": "arxiv:2610.41612",
@@ -8187,7 +8647,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.421397
+   "rank": 0.40206
   },
   {
    "key": "arxiv:2610.41579",
@@ -8210,7 +8670,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.420912
+   "rank": 0.401598
   },
   {
    "key": "arxiv:2610.41248",
@@ -8233,7 +8693,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.415346
+   "rank": 0.396287
   },
   {
    "key": "arxiv:2610.40512",
@@ -8256,7 +8716,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.405698
+   "rank": 0.387082
   },
   {
    "key": "arxiv:2610.39533",
@@ -8279,7 +8739,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.397511
+   "rank": 0.37927
   },
   {
    "key": "arxiv:2610.39397",
@@ -8302,7 +8762,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.395868
+   "rank": 0.377703
   },
   {
    "key": "arxiv:2610.39082",
@@ -8325,7 +8785,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.391696
+   "rank": 0.373723
   },
   {
    "key": "arxiv:2610.39827",
@@ -8349,7 +8809,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.391383
+   "rank": 0.373424
   },
   {
    "key": "arxiv:2610.38756",
@@ -8372,7 +8832,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.387853
+   "rank": 0.370056
   },
   {
    "key": "arxiv:2610.38483",
@@ -8395,7 +8855,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.379414
+   "rank": 0.362004
   },
   {
    "key": "arxiv:2610.38213",
@@ -8418,7 +8878,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.3749
+   "rank": 0.357698
   },
   {
    "key": "arxiv:2610.38794",
@@ -8442,7 +8902,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.372477
+   "rank": 0.355386
   },
   {
    "key": "arxiv:2610.37794",
@@ -8465,7 +8925,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.368048
+   "rank": 0.35116
   },
   {
    "key": "arxiv:2610.35813",
@@ -8488,7 +8948,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.349919
+   "rank": 0.333863
   },
   {
    "key": "hn:34624795",
@@ -8511,7 +8971,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 48,
-   "rank": 0.914566
+   "rank": 0.891947
   },
   {
    "key": "hn:28054017",
@@ -8534,7 +8994,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 11,
-   "rank": 0.762141
+   "rank": 0.739523
   },
   {
    "key": "hn:38458233",
@@ -8557,7 +9017,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 6,
-   "rank": 0.703747
+   "rank": 0.681128
   },
   {
    "key": "url:b6c8018b9e92728a",
@@ -8580,7 +9040,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.004774
+   "rank": 0.004555
   },
   {
    "key": "yt:39CZyDq3vSw",
@@ -8603,7 +9063,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:Cm3xQTWtBzs",
@@ -8626,7 +9086,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:L985zYsIuwc",
@@ -8649,7 +9109,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:NFfxUOCICFA",
@@ -8672,7 +9132,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:RLlx7wjNbWs",
@@ -8695,7 +9155,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:ZepQAw21HfA",
@@ -8718,7 +9178,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:am3Zs8QpLLY",
@@ -8741,7 +9201,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:imLiaLQGmB8",
@@ -8764,7 +9224,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:paB8xllH7IA",
@@ -8787,7 +9247,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.492928
+   "rank": 0.470309
   },
   {
    "key": "yt:K-O6wHRRICY",
@@ -8810,7 +9270,76 @@
    "score": null,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.028378
+   "rank": 0.027076
+  },
+  {
+   "key": "arxiv:2611.20058",
+   "title": "SWAN-Rx: Efficient and Bandwidth-Scalable Neural Reception for MIMO-OFDM",
+   "url": "https://arxiv.org/abs/2611.20058",
+   "kind": "paper",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "arXiv eess.SP",
+   "origin": "check",
+   "published_at": "2026-11-15T15:07:44Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 15,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.893908
+  },
+  {
+   "key": "arxiv:2611.19959",
+   "title": "Sparse Rotatable Arrays (SRAs) for Cell-Free MIMO: Network-Wide Design of Antenna Activation and Panel Orientation",
+   "url": "https://arxiv.org/abs/2611.19959",
+   "kind": "paper",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-11-15T12:01:05Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 15,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.888189
+  },
+  {
+   "key": "arxiv:2611.18947",
+   "title": "Joint Channel Estimation, Data Detection, and Phase Noise Tracking in Massive MIMO Systems",
+   "url": "https://arxiv.org/abs/2611.18947",
+   "kind": "paper",
+   "topic": "massive-mimo",
+   "topic_label": "Massive MIMO",
+   "site": "arXiv cs.IT",
+   "origin": "check",
+   "published_at": "2026-11-13T21:03:12Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 11,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.819589
   },
   {
    "key": "arxiv:2611.16996",
@@ -8833,7 +9362,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.809071
+   "rank": 0.771946
   },
   {
    "key": "arxiv:2611.16305",
@@ -8856,7 +9385,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.791029
+   "rank": 0.754731
   },
   {
    "key": "arxiv:2611.15393",
@@ -8879,7 +9408,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.764039
+   "rank": 0.72898
   },
   {
    "key": "arxiv:2611.15285",
@@ -8902,7 +9431,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.76107
+   "rank": 0.726147
   },
   {
    "key": "arxiv:2611.12223",
@@ -8916,7 +9445,7 @@
    "published_at": "2026-11-09T11:16:41Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -8925,7 +9454,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.690605
+   "rank": 0.658916
   },
   {
    "key": "arxiv:2611.10954",
@@ -8939,7 +9468,7 @@
    "published_at": "2026-11-07T20:38:03Z",
    "first_seen_at": "2026-11-10T20:10:45Z",
    "first_seen_pt": "Nov 10, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -8948,7 +9477,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.637687
+   "rank": 0.608426
   },
   {
    "key": "arxiv:2611.06576",
@@ -8971,7 +9500,7 @@
    "score": 15,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.542863
+   "rank": 0.517953
   },
   {
    "key": "arxiv:2611.06566",
@@ -8994,7 +9523,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.542736
+   "rank": 0.517832
   },
   {
    "key": "arxiv:2611.03922",
@@ -9017,7 +9546,7 @@
    "score": 13,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.497676
+   "rank": 0.474839
   },
   {
    "key": "arxiv:2611.03193",
@@ -9040,7 +9569,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.491445
+   "rank": 0.468894
   },
   {
    "key": "arxiv:2611.02552",
@@ -9063,7 +9592,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.482481
+   "rank": 0.460342
   },
   {
    "key": "arxiv:2611.01107",
@@ -9086,7 +9615,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.447466
+   "rank": 0.426933
   },
   {
    "key": "arxiv:2610.40229",
@@ -9110,7 +9639,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.391383
+   "rank": 0.373424
   },
   {
    "key": "arxiv:2610.38855",
@@ -9133,7 +9662,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.388635
+   "rank": 0.370802
   },
   {
    "key": "arxiv:2610.37424",
@@ -9156,7 +9685,7 @@
    "score": 11,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.366095
+   "rank": 0.349296
   },
   {
    "key": "arxiv:2610.36609",
@@ -9179,7 +9708,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.35756
+   "rank": 0.341153
   },
   {
    "key": "arxiv:2610.33982",
@@ -9202,7 +9731,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.321065
+   "rank": 0.306333
   },
   {
    "key": "arxiv:2610.29883",
@@ -9225,7 +9754,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.263381
+   "rank": 0.251296
   },
   {
    "key": "arxiv:2610.17785",
@@ -9248,7 +9777,7 @@
    "score": null,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.177242
+   "rank": 0.169109
   },
   {
    "key": "hn:24026416",
@@ -9271,7 +9800,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 35,
-   "rank": 0.881164
+   "rank": 0.858546
   },
   {
    "key": "hn:16590022",
@@ -9294,7 +9823,7 @@
    "score": null,
    "citation_count": null,
    "comment_count": 1,
-   "rank": 0.568023
+   "rank": 0.545404
   },
   {
    "key": "yt:hzf8wUwJEQU",
@@ -9317,7 +9846,30 @@
    "score": 7,
    "citation_count": null,
    "comment_count": null,
-   "rank": 0.317025
+   "rank": 0.302478
+  },
+  {
+   "key": "arxiv:2611.19640",
+   "title": "Floorplan-Context-Aware Cross-Environment Human Activity Recognition from mmWave Radar Point Clouds",
+   "url": "https://arxiv.org/abs/2611.19640",
+   "kind": "paper",
+   "topic": "other",
+   "topic_label": "Other wireless",
+   "site": "arXiv cs.CV",
+   "origin": "check",
+   "published_at": "2026-11-14T22:01:03Z",
+   "first_seen_at": "2026-11-17T21:28:46Z",
+   "first_seen_pt": "Nov 17, 2026",
+   "is_new": true,
+   "new_today": true,
+   "discussion_url": null,
+   "sources": [
+    "arxiv"
+   ],
+   "score": 7,
+   "citation_count": null,
+   "comment_count": null,
+   "rank": 0.862903
   },
   {
    "key": "arxiv:2611.16646",
@@ -9340,7 +9892,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.801258
+   "rank": 0.764491
   },
   {
    "key": "arxiv:2611.14042",
@@ -9363,7 +9915,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.728549
+   "rank": 0.695118
   },
   {
    "key": "arxiv:2611.09003",
@@ -9377,7 +9929,7 @@
    "published_at": "2026-11-06T05:22:17Z",
    "first_seen_at": "2026-11-09T22:50:53Z",
    "first_seen_pt": "Nov 9, 2026",
-   "is_new": true,
+   "is_new": false,
    "new_today": false,
    "discussion_url": null,
    "sources": [
@@ -9386,7 +9938,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.588073
+   "rank": 0.561089
   },
   {
    "key": "arxiv:2611.07306",
@@ -9409,7 +9961,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.555492
+   "rank": 0.530002
   },
   {
    "key": "arxiv:2611.05128",
@@ -9432,7 +9984,7 @@
    "score": 7,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.518373
+   "rank": 0.494587
   },
   {
    "key": "arxiv:2610.36637",
@@ -9455,7 +10007,7 @@
    "score": 9,
    "citation_count": 0,
    "comment_count": null,
-   "rank": 0.358047
+   "rank": 0.341618
   }
  ]
 }
